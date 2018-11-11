@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.BotState" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAQQAAAAAAAA=</HashCode>
+      <FileName>BotState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.NotHitState" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="Lab2.BotState" FixedFromPoint="true">
+      <Path>
+        <Point X="4.688" Y="2.25" />
+        <Point X="4.688" Y="1.846" />
+        <Point X="4" Y="1.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BotState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.FirstHitState" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BotState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.NextHitState" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="Lab2.BotState" FixedFromPoint="true">
+      <Path>
+        <Point X="4.688" Y="2.812" />
+        <Point X="4.688" Y="3.346" />
+        <Point X="4" Y="3.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BotState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.RandomBuildStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAAIAAAIAgAAAAAAAAAAAAgAQABAAAAAAA=</HashCode>
+      <FileName>Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.GUIBuildStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACQAAAIAAgIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.FleetBuilder" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <AssociationLine Name="fleet" Type="Lab2.Fleet" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="3.563" />
+        <Point X="6.312" Y="3.563" />
+        <Point X="6.312" Y="1.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAIAIAAAIAAAAAEAAAAAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>Builder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="buildStrategy" />
+      <Field Name="fleet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Fleet" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAABAEAAIAAEBAQAAAAABBAAAGIAAAAAAAAAAA=</HashCode>
+      <FileName>Fleet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Ships" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Lab2.Ship" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Fleet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Game" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAEAAAAAAAAAAAgAAAAAAAAAAACAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.GamePlayerVSBot" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="Lab2.Game" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="5.5" />
+        <Point X="8.75" Y="5.062" />
+        <Point X="7" Y="5.062" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Bot" Type="Lab2.Bot">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="-0.277" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Human" Type="Lab2.Human" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="5.441" />
+        <Point X="6.25" Y="5.816" />
+        <Point X="1.75" Y="5.816" />
+        <Point X="1.75" Y="6.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.693" Y="0.16" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bot" />
+      <Property Name="Human" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.GamePlayerVSPlayer" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.75" />
+    <InheritanceLine Type="Lab2.Game" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="6.062" />
+        <Point X="8.75" Y="6.625" />
+        <Point X="7.25" Y="6.625" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Human1" Type="Lab2.Human" FixedFromPoint="true">
+      <Path>
+        <Point X="5.5" Y="6.75" />
+        <Point X="2" Y="6.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Human2" Type="Lab2.Human" FixedFromPoint="true">
+      <Path>
+        <Point X="5.5" Y="6.438" />
+        <Point X="2" Y="6.438" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Human1" />
+      <Property Name="Human2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.GUI" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACEAAAAEIAEAAKAAABAgACQAJAAQgBABAAAgAAAA=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Player" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Fleet" Type="Lab2.Fleet" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.5" Y="3.5" />
+        <Point X="1.5" Y="1.25" />
+        <Point X="5.5" Y="1.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAABAAAQAABABAAAAIAAAACAGAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fleet" />
+      <Property Name="Opponent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Bot" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="Lab2.Player" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.75" Y="4.062" />
+        <Point X="1.75" Y="5.188" />
+        <Point X="3" Y="5.188" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="state" Type="Lab2.BotState" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.125" Y="4.75" />
+        <Point X="4.125" Y="4.558" />
+        <Point X="5.562" Y="4.558" />
+        <Point X="5.562" Y="2.812" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAgAAIBAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="state" />
+      <Field Name="bot" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Human" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="Lab2.Player" FixedFromPoint="true">
+      <Path>
+        <Point X="1.25" Y="4.062" />
+        <Point X="1.25" Y="6.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Program" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab2.IBuildStrategy" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

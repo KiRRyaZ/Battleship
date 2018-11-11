@@ -1,0 +1,5424 @@
+﻿Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (3;4) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (8;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;7) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (8;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (8;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.FirstHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (8;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;5) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (2;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (3;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (8;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;2) -> Kill
+Победил бот
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (1;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (5;4) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;7) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (0;2) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (5;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (7;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (1;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (7;0) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (6;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NextHitState
+Я (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;4) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;9) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Я (4;0) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.FirstHitState
+Я (0;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Я (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (3;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (9;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (1;8) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (0;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (7;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (9;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Я (9;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (5;8) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (5;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (5;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;6) -> Miss
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+
+
+New GameСостояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+Я (5;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (6;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (3;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+
+
+New GameСостояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+Я (8;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;0) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (3;4) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (2;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (6;7) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (4;4) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (5;4) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (6;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (4;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;1) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (6;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Я (7;2) -> Hit
+Состояние бота: Lab2.FirstHitState
+Я (8;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (2;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (5;2) -> Kill
+Состояние бота: Lab2.FirstHitState
+Я (3;3) -> Miss
+
+
+New GameСостояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (6;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (7;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (5;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (3;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (1;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (2;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (7;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;3) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (3;3) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (2;3) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;4) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (9;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (4;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (4;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (3;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (4;3) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (4;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (4;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Miss
+
+
+New GameСостояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+Я (0;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (0;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;4) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;6) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (9;0) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (6;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (6;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;2) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (8;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;2) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (7;6) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (0;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;5) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (6;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;5) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (9;3) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (9;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (6;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (1;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;7) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (9;3) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (9;4) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;3) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (6;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (4;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (7;4) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (9;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;9) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (4;5) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (4;6) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (8;0) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (0;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;3) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (1;3) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (0;5) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (0;4) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (0;4) -> Miss
+Состояние бота: Lab2.NextHitState
+Бот (0;2) -> Hit
+Состояние бота: Lab2.NextHitState
+Бот (0;1) -> Hit
+Состояние бота: Lab2.NotHitState
+Бот (0;0) -> Kill
+Состояние бота: Lab2.FirstHitState
+Бот (7;7) -> Hit
+Состояние бота: Lab2.FirstHitState
+Бот (7;8) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (2;2) -> Miss
+Состояние бота: Lab2.FirstHitState
+Бот (7;6) -> Miss
+Состояние бота: Lab2.FirstHitState
+Я (3;2) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (6;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Бот (1;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (5;5) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (5;7) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (5;8) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (4;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (4;7) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (1;9) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (3;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (3;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (8;9) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (5;1) -> Miss
+Состояние бота: Lab2.NotHitState
+Я (7;9) -> Kill
+Состояние бота: Lab2.NotHitState
+Я (9;7) -> Miss
+Состояние бота: Lab2.NotHitState
+Бот (2;0) -> Miss
+Победил игрок
+
+
+New GameСостояние бота: Lab2.NotHitState
+Состояние бота: Lab2.NotHitState
+Я (1;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (2;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (3;0) -> Hit
+Состояние бота: Lab2.NotHitState
+Я (0;0) -> Kill
+
+
+New GameКирилл (0;0) -> Hit
+Кирилл (1;0) -> Hit
+Кирилл (2;0) -> Hit
+Кирилл (3;0) -> Kill
+
+
+New GameКирилл (0;0) -> Hit
+Кирилл (1;0) -> Hit
+Кирилл (2;0) -> Hit
+Кирилл (3;0) -> Kill
+Кирилл (3;3) -> Miss
+Бот (2;4) -> Miss
+Кирилл (2;5) -> Hit
+Кирилл (2;4) -> Hit
+Кирилл (2;6) -> Kill
+Кирилл (4;6) -> Miss
+Бот (2;0) -> Miss
+Кирилл (4;4) -> Miss
+Бот (0;3) -> Miss
+Кирилл (6;4) -> Miss
+Бот (1;8) -> Hit
+Бот (2;8) -> Miss
+Кирилл (6;6) -> Miss
+Бот (1;7) -> Kill
+Бот (6;6) -> Miss
+Кирилл (6;8) -> Miss
+Бот (3;2) -> Hit
+Бот (3;1) -> Miss
+Кирилл (7;8) -> Miss
+Бот (3;3) -> Hit
+Бот (3;4) -> Hit
+Бот (3;5) -> Kill
+Бот (6;8) -> Miss
+Кирилл (7;5) -> Hit
+Кирилл (6;5) -> Miss
+Бот (7;9) -> Hit
+Бот (6;9) -> Miss
+Кирилл (8;5) -> Kill
+Кирилл (9;0) -> Kill
+Кирилл (6;0) -> Miss
+Бот (7;8) -> Hit
+Бот (7;7) -> Kill
+Бот (6;5) -> Hit
+Бот (7;5) -> Hit
+Бот (5;5) -> Kill
+Бот (8;3) -> Miss
+Кирилл (6;1) -> Miss
+Бот (5;9) -> Miss
+Кирилл (6;2) -> Hit
+Кирилл (7;2) -> Hit
+Кирилл (8;2) -> Miss
+Бот (9;4) -> Miss
+Кирилл (5;2) -> Kill
+Кирилл (5;0) -> Miss
+Бот (9;7) -> Miss
+Кирилл (5;4) -> Miss
+Бот (0;4) -> Miss
+Кирилл (5;5) -> Kill
+Кирилл (5;7) -> Hit
+Кирилл (6;7) -> Miss
+Бот (6;3) -> Miss
+Кирилл (5;8) -> Miss
+Бот (4;9) -> Hit
+Бот (4;8) -> Miss
+Кирилл (4;7) -> Kill
+Кирилл (4;9) -> Miss
+Бот (3;9) -> Kill
+Бот (6;0) -> Miss
+Кирилл (7;7) -> Miss
+Бот (7;2) -> Kill
+Бот (9;1) -> Miss
+Кирилл (8;7) -> Miss
+Бот (1;5) -> Miss
+Кирилл (8;8) -> Miss
+Бот (1;1) -> Miss
+Кирилл (8;9) -> Miss
+Бот (1;2) -> Hit
+Бот (1;3) -> Kill
+Бот (5;0) -> Kill
+Бот (0;0) -> Miss
+Кирилл (6;9) -> Miss
+Бот (5;2) -> Kill
+Бот (7;0) -> Miss
+Кирилл (1;8) -> Miss
+Бот (9;6) -> Miss
+Кирилл (0;8) -> Miss
+Бот (9;3) -> Miss
+Кирилл (0;2) -> Kill
+Кирилл (2;2) -> Miss
+Бот (5;7) -> Miss
+Кирилл (3;2) -> Miss
+Бот (9;8) -> Miss
+Кирилл (9;2) -> Miss
+Бот (3;0) -> Miss
+Кирилл (9;3) -> Miss
+Бот (0;5) -> Miss
+Кирилл (9;7) -> Miss
+Бот (8;0) -> Miss
+Кирилл (9;8) -> Miss
+Бот (3;7) -> Miss
+Кирилл (9;9) -> Miss
+Бот (9;0) -> Miss
+Кирилл (7;9) -> Kill
+Кирилл (5;9) -> Miss
+Бот (9;9) -> Miss
+Кирилл (7;0) -> Miss
+Бот (9;2) -> Miss
+Кирилл (3;9) -> Miss
+Бот (9;5) -> Miss
+Кирилл (2;8) -> Miss
+Бот (1;0) -> Kill
+Бот (4;7) -> Miss
+Победил Bot
+
+
+New GameКирилл (2;4) -> Miss
+Бот (7;8) -> Miss
+Кирилл (2;6) -> Miss
+Бот (9;4) -> Miss
+Кирилл (4;6) -> Hit
+Кирилл (5;6) -> Miss
+Бот (9;7) -> Miss
+Кирилл (4;7) -> Hit
+Кирилл (4;5) -> Miss
+Бот (5;2) -> Miss
+Кирилл (4;8) -> Hit
+Кирилл (4;9) -> Kill
+Кирилл (7;9) -> Hit
+Кирилл (7;8) -> Miss
+Бот (7;5) -> Miss
+Кирилл (6;9) -> Kill
+Кирилл (6;3) -> Miss
+Бот (4;3) -> Miss
+Кирилл (4;1) -> Miss
+Бот (6;0) -> Miss
+Кирилл (8;1) -> Miss
+Бот (4;9) -> Kill
+Бот (1;8) -> Miss
+Кирилл (8;4) -> Miss
+Бот (0;8) -> Kill
+Бот (7;9) -> Hit
+Бот (8;9) -> Kill
+Бот (1;2) -> Miss
+Кирилл (2;1) -> Miss
+Бот (8;7) -> Miss
+Кирилл (1;1) -> Hit
+Кирилл (1;2) -> Hit
+Кирилл (1;0) -> Kill
+Кирилл (3;0) -> Miss
+Бот (5;5) -> Miss
+Кирилл (1;6) -> Hit
+Кирилл (1;7) -> Miss
+Бот (0;0) -> Kill
+Бот (0;5) -> Miss
+Кирилл (0;6) -> Miss
+Бот (2;4) -> Hit
+Бот (1;4) -> Miss
+Кирилл (1;5) -> Hit
+Кирилл (1;4) -> Kill
+Кирилл (1;9) -> Miss
+Бот (2;3) -> Hit
+Бот (2;2) -> Miss
+Кирилл (1;8) -> Miss
+Бот (2;5) -> Hit
+Бот (2;6) -> Kill
+Бот (9;5) -> Miss
+Кирилл (6;1) -> Miss
+Бот (6;3) -> Hit
+Бот (6;2) -> Hit
+Бот (6;1) -> Kill
+Бот (0;4) -> Miss
+Кирилл (7;2) -> Miss
+Бот (0;3) -> Miss
+Кирилл (7;6) -> Miss
+Бот (8;5) -> Miss
+Кирилл (7;5) -> Miss
+Бот (2;8) -> Kill
+Бот (0;6) -> Miss
+Кирилл (8;6) -> Miss
+Бот (0;2) -> Miss
+Кирилл (9;4) -> Miss
+Бот (3;1) -> Hit
+Бот (3;0) -> Miss
+Кирилл (9;3) -> Miss
+Бот (4;1) -> Miss
+Кирилл (8;3) -> Miss
+Бот (2;1) -> Kill
+Бот (8;3) -> Hit
+Бот (9;3) -> Miss
+Кирилл (8;2) -> Miss
+Бот (8;4) -> Kill
+Бот (4;5) -> Miss
+Кирилл (4;3) -> Miss
+Бот (7;7) -> Miss
+Кирилл (3;2) -> Miss
+Бот (7;6) -> Miss
+Кирилл (5;2) -> Miss
+Бот (9;0) -> Miss
+Кирилл (5;0) -> Miss
+Бот (8;0) -> Miss
+Кирилл (7;0) -> Miss
+Бот (4;4) -> Miss
+Кирилл (5;4) -> Hit
+Кирилл (5;3) -> Miss
+Бот (6;6) -> Hit
+Бот (6;5) -> Miss
+Кирилл (6;4) -> Kill
+Кирилл (6;6) -> Miss
+Бот (5;6) -> Hit
+Бот (4;6) -> Kill
+Бот (8;6) -> Miss
+Победил Bot
+
+
+New GameКирилл (3;2) -> Miss
+Бот (5;3) -> Miss
+Кирилл (3;5) -> Miss
+Бот (7;1) -> Kill
+Бот (3;9) -> Miss
+Кирилл (5;5) -> Miss
+Бот (9;5) -> Miss
+Кирилл (5;7) -> Miss
+Бот (0;3) -> Hit
+Бот (0;4) -> Miss
+Кирилл (1;8) -> Miss
+Бот (1;3) -> Miss
+Кирилл (1;0) -> Miss
+Бот (0;2) -> Hit
+Бот (0;1) -> Hit
+Бот (0;0) -> Kill
+Бот (6;7) -> Miss
+Кирилл (5;1) -> Miss
+Бот (2;0) -> Miss
+Кирилл (5;3) -> Hit
+Кирилл (6;3) -> Hit
+Кирилл (7;3) -> Miss
+Бот (7;5) -> Miss
+Кирилл (4;3) -> Hit
+Кирилл (3;3) -> Kill
+Кирилл (7;6) -> Miss
+Бот (5;5) -> Miss
+Кирилл (7;7) -> Miss
+Бот (3;7) -> Miss
+Кирилл (7;8) -> Miss
+Бот (2;6) -> Miss
+Кирилл (3;7) -> Miss
+Бот (8;4) -> Miss
+Кирилл (9;2) -> Kill
+Кирилл (6;0) -> Miss
+Бот (6;6) -> Miss
+Кирилл (6;1) -> Kill
+Кирилл (3;1) -> Hit
+Кирилл (3;0) -> Miss
+Бот (3;8) -> Miss
+Кирилл (4;1) -> Miss
+Бот (3;2) -> Miss
+Кирилл (2;1) -> Kill
+Кирилл (0;1) -> Miss
+Бот (2;9) -> Miss
+Кирилл (1;6) -> Miss
+Бот (2;3) -> Hit
+Бот (2;2) -> Miss
+Кирилл (1;5) -> Miss
+Бот (2;4) -> Miss
+Кирилл (1;3) -> Miss
+Бот (3;3) -> Hit
+Бот (4;3) -> Kill
+Бот (9;4) -> Miss
+Кирилл (0;4) -> Miss
+Бот (1;5) -> Miss
+Кирилл (0;7) -> Hit
+Кирилл (1;7) -> Miss
+Бот (3;6) -> Miss
+Кирилл (0;6) -> Miss
+Бот (8;5) -> Miss
+Кирилл (0;8) -> Kill
+Кирилл (2;7) -> Miss
+Бот (1;9) -> Miss
+Кирилл (4;6) -> Hit
+Кирилл (3;6) -> Hit
+Кирилл (2;6) -> Miss
+Бот (8;8) -> Miss
+Кирилл (5;6) -> Kill
+Кирилл (4;8) -> Hit
+Кирилл (3;8) -> Hit
+Кирилл (5;8) -> Kill
+Кирилл (8;7) -> Miss
+Бот (7;3) -> Miss
+Кирилл (8;5) -> Miss
+Бот (5;9) -> Kill
+Бот (7;8) -> Miss
+Кирилл (9;6) -> Miss
+Бот (0;5) -> Miss
+Кирилл (9;8) -> Hit
+Кирилл (8;8) -> Miss
+Бот (6;5) -> Miss
+Кирилл (9;9) -> Miss
+Бот (5;0) -> Kill
+Бот (7;7) -> Miss
+Кирилл (9;7) -> Kill
+Кирилл (7;9) -> Miss
+Бот (9;6) -> Hit
+Бот (9;7) -> Kill
+Бот (2;8) -> Miss
+Кирилл (9;4) -> Miss
+Бот (9;1) -> Hit
+Бот (9;2) -> Miss
+Кирилл (0;3) -> Miss
+Бот (9;0) -> Kill
+Бот (8;3) -> Miss
+Кирилл (0;2) -> Miss
+Бот (0;6) -> Miss
+Кирилл (0;5) -> Miss
+Бот (0;9) -> Miss
+Кирилл (1;4) -> Miss
+Бот (5;7) -> Miss
+Кирилл (8;0) -> Miss
+Бот (5;6) -> Miss
+Кирилл (9;0) -> Kill
+Кирилл (9;5) -> Miss
+Бот (7;4) -> Miss
+Кирилл (8;4) -> Kill
+Кирилл (0;0) -> Miss
+Бот (3;0) -> Miss
+Победил Кирилл
+
+
+New GameКирилл выстрелил в точку (2;2) и Hit
+Кирилл выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (7;1) и Miss
+Кирилл выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (0;8) и Miss
+Кирилл выстрелил в точку (2;3) и Hit
+Кирилл выстрелил в точку (2;1) и Hit
+Кирилл выстрелил в точку (2;0) и Kill
+Кирилл выстрелил в точку (2;7) и Hit
+Кирилл выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (4;9) и Miss
+Кирилл выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (8;9) и Miss
+Кирилл выстрелил в точку (2;8) и Miss
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (1;2) и Miss
+Кирилл выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (0;3) и Hit
+Bot выстрелил в точку (0;4) и Miss
+Кирилл выстрелил в точку (2;6) и Kill
+Кирилл выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (0;1) и Hit
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (7;4) и Miss
+Кирилл выстрелил в точку (6;4) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Кирилл выстрелил в точку (8;6) и Miss
+Bot выстрелил в точку (8;4) и Miss
+Кирилл выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (5;7) и Miss
+Кирилл выстрелил в точку (5;1) и Hit
+Кирилл выстрелил в точку (5;2) и Hit
+Кирилл выстрелил в точку (5;0) и Kill
+Кирилл выстрелил в точку (8;0) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Кирилл выстрелил в точку (8;2) и Miss
+Bot выстрелил в точку (7;2) и Miss
+Кирилл выстрелил в точку (8;4) и Miss
+Bot выстрелил в точку (3;5) и Miss
+Кирилл выстрелил в точку (6;8) и Miss
+Bot выстрелил в точку (4;1) и Hit
+Bot выстрелил в точку (4;2) и Miss
+Кирилл выстрелил в точку (5;8) и Miss
+Bot выстрелил в точку (4;0) и Kill
+Bot выстрелил в точку (1;5) и Miss
+Кирилл выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (7;7) и Miss
+Кирилл выстрелил в точку (0;7) и Hit
+Кирилл выстрелил в точку (0;6) и Miss
+Bot выстрелил в точку (3;8) и Miss
+Кирилл выстрелил в точку (0;8) и Hit
+Кирилл выстрелил в точку (0;9) и Kill
+Кирилл выстрелил в точку (0;2) и Kill
+Кирилл выстрелил в точку (0;5) и Miss
+Bot выстрелил в точку (6;9) и Miss
+Кирилл выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (8;7) и Miss
+Кирилл выстрелил в точку (9;5) и Miss
+Bot выстрелил в точку (6;2) и Miss
+Кирилл выстрелил в точку (9;8) и Hit
+Кирилл выстрелил в точку (9;9) и Miss
+Bot выстрелил в точку (6;5) и Miss
+Кирилл выстрелил в точку (9;7) и Kill
+Кирилл выстрелил в точку (9;2) и Miss
+Bot выстрелил в точку (7;8) и Hit
+Bot выстрелил в точку (6;8) и Miss
+Кирилл выстрелил в точку (9;0) и Miss
+Bot выстрелил в точку (8;8) и Kill
+Bot выстрелил в точку (5;6) и Miss
+Кирилл выстрелил в точку (9;1) и Miss
+Bot выстрелил в точку (7;3) и Miss
+Кирилл выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (8;1) и Hit
+Bot выстрелил в точку (9;1) и Miss
+Кирилл выстрелил в точку (7;6) и Miss
+Bot выстрелил в точку (8;0) и Kill
+Bot выстрелил в точку (2;0) и Miss
+Кирилл выстрелил в точку (6;6) и Miss
+Bot выстрелил в точку (4;3) и Hit
+Bot выстрелил в точку (4;4) и Miss
+
+
+New GameКирилл выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (4;3) и Miss
+
+
+New GameКирилл выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Кирилл выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (6;0) и Miss
+Кирилл выстрелил в точку (7;6) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Кирилл выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (3;1) и Miss
+
+
+New GameКирилл выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Кирилл выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (6;7) и Miss
+Кирилл выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (2;6) и Miss
+Кирилл выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (2;7) и Miss
+
+
+New Game
+
+New Game
+
+New GameКирилл выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (2;8) и Miss
+Кирилл выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (8;0) и Miss
+Кирилл выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Кирилл выстрелил в точку (1;4) и Hit
+Кирилл выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (5;9) и Kill
+Bot выстрелил в точку (0;1) и Miss
+Кирилл выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (2;7) и Hit
+Bot выстрелил в точку (2;6) и Miss
+Кирилл выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (1;7) и Hit
+Bot выстрелил в точку (3;7) и Miss
+Кирилл выстрелил в точку (2;4) и Kill
+Кирилл выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (0;7) и Kill
+Bot выстрелил в точку (8;8) и Hit
+Bot выстрелил в точку (8;9) и Kill
+Bot выстрелил в точку (7;3) и Miss
+Кирилл выстрелил в точку (7;2) и Miss
+Bot выстрелил в точку (5;2) и Miss
+Кирилл выстрелил в точку (5;0) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Кирилл выстрелил в точку (8;0) и Miss
+Bot выстрелил в точку (1;5) и Miss
+Кирилл выстрелил в точку (9;5) и Miss
+Bot выстрелил в точку (9;3) и Miss
+Кирилл выстрелил в точку (8;8) и Miss
+Bot выстрелил в точку (3;2) и Miss
+Кирилл выстрелил в точку (5;8) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Кирилл выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (9;6) и Miss
+Кирилл выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (5;6) и Hit
+Bot выстрелил в точку (6;6) и Miss
+Кирилл выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (5;7) и Hit
+Bot выстрелил в точку (5;5) и Kill
+Bot выстрелил в точку (8;1) и Miss
+Кирилл выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Кирилл выстрелил в точку (8;4) и Hit
+Кирилл выстрелил в точку (8;3) и Hit
+Кирилл выстрелил в точку (8;5) и Miss
+Bot выстрелил в точку (7;0) и Miss
+Кирилл выстрелил в точку (8;2) и Hit
+Кирилл выстрелил в точку (8;1) и Kill
+Кирилл выстрелил в точку (6;2) и Miss
+Bot выстрелил в точку (2;4) и Hit
+Bot выстрелил в точку (2;5) и Hit
+Bot выстрелил в точку (2;3) и Hit
+Bot выстрелил в точку (2;2) и Kill
+Bot выстрелил в точку (3;9) и Miss
+Кирилл выстрелил в точку (5;5) и Kill
+Кирилл выстрелил в точку (5;7) и Kill
+Кирилл выстрелил в точку (7;6) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Кирилл выстрелил в точку (8;7) и Miss
+Bot выстрелил в точку (4;0) и Miss
+Кирилл выстрелил в точку (9;7) и Miss
+Bot выстрелил в точку (9;0) и Miss
+Кирилл выстрелил в точку (4;2) и Hit
+Кирилл выстрелил в точку (4;1) и Hit
+Кирилл выстрелил в точку (4;0) и Kill
+Кирилл выстрелил в точку (6;0) и Miss
+Bot выстрелил в точку (9;1) и Miss
+Кирилл выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (1;9) и Kill
+Bot выстрелил в точку (6;2) и Miss
+Кирилл выстрелил в точку (0;8) и Miss
+Bot выстрелил в точку (6;0) и Hit
+Bot выстрелил в точку (6;1) и Miss
+Кирилл выстрелил в точку (2;9) и Miss
+Bot выстрелил в точку (5;0) и Kill
+Bot выстрелил в точку (8;4) и Hit
+Bot выстрелил в точку (8;5) и Miss
+Кирилл выстрелил в точку (3;8) и Miss
+Bot выстрелил в точку (9;4) и Miss
+Кирилл выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (7;4) и Miss
+Кирилл выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (8;3) и Kill
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (2;0) и Miss
+Кирилл выстрелил в точку (5;9) и Hit
+Кирилл выстрелил в точку (6;9) и Hit
+Кирилл выстрелил в точку (7;9) и Miss
+Bot выстрелил в точку (3;0) и Miss
+Кирилл выстрелил в точку (4;9) и Kill
+Кирилл выстрелил в точку (3;6) и Hit
+Кирилл выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Кирилл выстрелил в точку (2;6) и Kill
+Кирилл выстрелил в точку (1;8) и Miss
+Bot выстрелил в точку (0;2) и Miss
+Кирилл выстрелил в точку (8;6) и Miss
+Bot выстрелил в точку (6;3) и Miss
+Кирилл выстрелил в точку (9;9) и Hit
+Кирилл выстрелил в точку (9;8) и Kill
+Кирилл выстрелил в точку (0;7) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Кирилл выстрелил в точку (0;9) и Miss
+Bot выстрелил в точку (4;2) и Kill
+Bot выстрелил в точку (8;6) и Miss
+Победил Bot
+
+
+New GameКирилл выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Кирилл выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Кирилл выстрелил в точку (6;3) и Miss
+Bot выстрелил в точку (4;7) и Miss
+Кирилл выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (0;2) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (9;8) и Hit
+Bot выстрелил в точку (9;7) и Miss
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (8;8) и Kill
+Bot выстрелил в точку (7;5) и Miss
+Kir выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (7;1) и Miss
+Kir выстрелил в точку (6;3) и Hit
+Kir выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (8;6) и Hit
+Bot выстрелил в точку (9;6) и Miss
+Kir выстрелил в точку (5;3) и Kill
+Kir выстрелил в точку (5;0) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Kir выстрелил в точку (8;0) и Miss
+Bot выстрелил в точку (8;5) и Kill
+Bot выстрелил в точку (5;9) и Miss
+Kir выстрелил в точку (9;5) и Miss
+Bot выстрелил в точку (1;6) и Hit
+Bot выстрелил в точку (2;6) и Miss
+
+
+New Game
+
+New GameKir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (0;3) и Hit
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (0;4) и Miss
+Kir выстрелил в точку (6;3) и Miss
+Bot выстрелил в точку (0;1) и Hit
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (5;5) и Miss
+Kir выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (7;5) и Miss
+Kir выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (4;9) и Miss
+Kir выстрелил в точку (2;9) и Miss
+Bot выстрелил в точку (1;8) и Hit
+Bot выстрелил в точку (1;7) и Miss
+Kir выстрелил в точку (2;6) и Hit
+Kir выстрелил в точку (2;5) и Hit
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (0;8) и Kill
+Bot выстрелил в точку (1;5) и Miss
+Kir выстрелил в точку (2;7) и Kill
+Kir выстрелил в точку (6;6) и Hit
+Kir выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (8;4) и Kill
+Bot выстрелил в точку (6;4) и Miss
+Kir выстрелил в точку (6;7) и Kill
+Kir выстрелил в точку (6;2) и Miss
+Bot выстрелил в точку (5;6) и Hit
+Bot выстрелил в точку (4;6) и Hit
+Bot выстрелил в точку (6;6) и Miss
+Kir выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (3;6) и Kill
+Bot выстрелил в точку (5;2) и Miss
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (3;1) и Miss
+Kir выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (9;2) и Miss
+Kir выстрелил в точку (8;3) и Miss
+Bot выстрелил в точку (6;1) и Miss
+Kir выстрелил в точку (9;5) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Kir выстрелил в точку (8;1) и Miss
+Bot выстрелил в точку (9;1) и Miss
+Kir выстрелил в точку (8;7) и Hit
+Kir выстрелил в точку (8;6) и Miss
+Bot выстрелил в точку (9;6) и Miss
+Kir выстрелил в точку (8;8) и Miss
+Bot выстрелил в точку (3;0) и Miss
+Kir выстрелил в точку (9;7) и Kill
+Kir выстрелил в точку (4;8) и Miss
+Bot выстрелил в точку (3;4) и Miss
+Kir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (8;0) и Kill
+Bot выстрелил в точку (8;7) и Hit
+Bot выстрелил в точку (8;8) и Miss
+Kir выстрелил в точку (0;3) и Hit
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (8;6) и Kill
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (0;2) и Hit
+Kir выстрелил в точку (0;1) и Hit
+Kir выстрелил в точку (0;0) и Kill
+Kir выстрелил в точку (0;7) и Miss
+Bot выстрелил в точку (5;9) и Miss
+Kir выстрелил в точку (0;6) и Kill
+Kir выстрелил в точку (0;9) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (6;0) и Kill
+Kir выстрелил в точку (9;2) и Hit
+Kir выстрелил в точку (9;1) и Kill
+Kir выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (6;2) и Miss
+Kir выстрелил в точку (5;9) и Hit
+Kir выстрелил в точку (4;9) и Hit
+Kir выстрелил в точку (3;9) и Kill
+Kir выстрелил в точку (8;9) и Miss
+Bot выстрелил в точку (8;2) и Kill
+Bot выстрелил в точку (6;8) и Hit
+Bot выстрелил в точку (6;9) и Miss
+Kir выстрелил в точку (8;4) и Miss
+Bot выстрелил в точку (5;8) и Kill
+Bot выстрелил в точку (4;4) и Miss
+Kir выстрелил в точку (4;7) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (6;3) и Miss
+Kir выстрелил в точку (9;4) и Miss
+Bot выстрелил в точку (5;0) и Kill
+Bot выстрелил в точку (0;6) и Miss
+Kir выстрелил в точку (9;9) и Miss
+Bot выстрелил в точку (4;3) и Hit
+Bot выстрелил в точку (3;3) и Hit
+Bot выстрелил в точку (5;3) и Kill
+Bot выстрелил в точку (2;0) и Miss
+Победил Bot
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (6;2) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (5;7) и Miss
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (6;5) и Miss
+Kir выстрелил в точку (5;2) и Miss
+Bot выстрелил в точку (7;5) и Hit
+Bot выстрелил в точку (8;5) и Miss
+
+
+New GameRyz выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (0;9) и Miss
+Ryz выстрелил в точку (5;6) и Miss
+Bot выстрелил в точку (1;0) и Miss
+Ryz выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (5;1) и Kill
+Bot выстрелил в точку (8;6) и Miss
+Ryz выстрелил в точку (6;3) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Ryz выстрелил в точку (6;0) и Miss
+Bot выстрелил в точку (6;5) и Miss
+Ryz выстрелил в точку (8;7) и Miss
+Bot выстрелил в точку (9;3) и Miss
+Ryz выстрелил в точку (4;8) и Miss
+Bot выстрелил в точку (4;3) и Hit
+Bot выстрелил в точку (3;3) и Hit
+Bot выстрелил в точку (5;3) и Miss
+Ryz выстрелил в точку (1;2) и Hit
+Ryz выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (2;3) и Kill
+Bot выстрелил в точку (4;6) и Hit
+Bot выстрелил в точку (5;6) и Miss
+Ryz выстрелил в точку (1;3) и Kill
+Ryz выстрелил в точку (4;2) и Kill
+Ryz выстрелил в точку (7;2) и Miss
+Bot выстрелил в точку (4;7) и Miss
+Ryz выстрелил в точку (8;4) и Miss
+Bot выстрелил в точку (3;6) и Hit
+Bot выстрелил в точку (2;6) и Kill
+Bot выстрелил в точку (3;9) и Hit
+Bot выстрелил в точку (3;8) и Miss
+Ryz выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (2;9) и Miss
+Ryz выстрелил в точку (5;4) и Miss
+Bot выстрелил в точку (4;9) и Kill
+Bot выстрелил в точку (9;1) и Miss
+Ryz выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (3;0) и Miss
+Ryz выстрелил в точку (1;8) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Ryz выстрелил в точку (0;7) и Miss
+Bot выстрелил в точку (9;7) и Miss
+Ryz выстрелил в точку (9;6) и Miss
+Bot выстрелил в точку (6;7) и Miss
+Ryz выстрелил в точку (9;3) и Hit
+Ryz выстрелил в точку (9;2) и Kill
+Ryz выстрелил в точку (7;5) и Miss
+Bot выстрелил в точку (3;1) и Kill
+Bot выстрелил в точку (8;9) и Miss
+Ryz выстрелил в точку (7;4) и Kill
+Ryz выстрелил в точку (7;7) и Miss
+Bot выстрелил в точку (0;4) и Miss
+Ryz выстрелил в точку (6;7) и Miss
+Bot выстрелил в точку (8;0) и Kill
+Bot выстрелил в точку (6;9) и Miss
+Ryz выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (7;4) и Miss
+Ryz выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (7;3) и Miss
+Ryz выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (8;7) и Miss
+Ryz выстрелил в точку (3;9) и Hit
+Ryz выстрелил в точку (4;9) и Miss
+Bot выстрелил в точку (7;5) и Hit
+Bot выстрелил в точку (8;5) и Miss
+Ryz выстрелил в точку (2;9) и Hit
+Ryz выстрелил в точку (1;9) и Hit
+Ryz выстрелил в точку (0;9) и Kill
+Ryz выстрелил в точку (1;6) и Miss
+Bot выстрелил в точку (7;6) и Kill
+Bot выстрелил в точку (9;2) и Miss
+Ryz выстрелил в точку (1;5) и Hit
+Ryz выстрелил в точку (2;5) и Hit
+Ryz выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (0;6) и Miss
+Ryz выстрелил в точку (0;5) и Kill
+Ryz выстрелил в точку (7;9) и Miss
+Bot выстрелил в точку (8;2) и Hit
+Bot выстрелил в точку (8;3) и Miss
+Ryz выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (7;2) и Kill
+Bot выстрелил в точку (0;3) и Hit
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (0;1) и Hit
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (0;5) и Miss
+Ryz выстрелил в точку (9;8) и Kill
+Ryz выстрелил в точку (5;8) и Hit
+Ryz выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (9;9) и Miss
+Ryz выстрелил в точку (5;9) и Kill
+Ryz выстрелил в точку (7;6) и Hit
+Ryz выстрелил в точку (6;6) и Hit
+Ryz выстрелил в точку (8;6) и Kill
+Ryz выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (1;8) и Miss
+Ryz выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (1;9) и Miss
+Ryz выстрелил в точку (0;0) и Kill
+Ryz выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (7;9) и Miss
+Победил Ryz
+
+
+New Game
+
+New Game
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (8;9) и Miss
+Kir выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (9;7) и Miss
+Kir выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (2;8) и Miss
+Kir выстрелил в точку (6;4) и Miss
+Bot выстрелил в точку (7;8) и Hit
+Bot выстрелил в точку (6;8) и Miss
+Kir выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (8;8) и Miss
+Kir выстрелил в точку (8;3) и Miss
+Bot выстрелил в точку (7;9) и Hit
+Bot выстрелил в точку (7;7) и Hit
+Bot выстрелил в точку (7;6) и Kill
+Bot выстрелил в точку (0;3) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (9;3) и Hit
+Bot выстрелил в точку (8;3) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (9;2) и Hit
+Bot выстрелил в точку (9;4) и Miss
+Kir выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (9;1) и Hit
+Bot выстрелил в точку (9;0) и Kill
+Bot выстрелил в точку (5;8) и Kill
+Bot выстрелил в точку (6;3) и Hit
+Bot выстрелил в точку (7;3) и Kill
+Bot выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (9;5) и Miss
+Kir выстрелил в точку (0;9) и Miss
+Bot выстрелил в точку (5;6) и Miss
+Kir выстрелил в точку (3;9) и Miss
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (0;1) и Miss
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (0;3) и Kill
+Bot выстрелил в точку (8;7) и Miss
+Kir выстрелил в точку (3;1) и Hit
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (4;2) и Miss
+Kir выстрелил в точку (2;1) и Hit
+Kir выстрелил в точку (1;1) и Kill
+Kir выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (6;5) и Miss
+Kir выстрелил в точку (8;1) и Miss
+Bot выстрелил в точку (7;5) и Miss
+Kir выстрелил в точку (7;2) и Hit
+Kir выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (7;3) и Hit
+Kir выстрелил в точку (7;4) и Kill
+Kir выстрелил в точку (8;7) и Miss
+Bot выстрелил в точку (0;6) и Miss
+Kir выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (3;8) и Miss
+Kir выстрелил в точку (5;9) и Miss
+Bot выстрелил в точку (1;8) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (1;9) и Miss
+Kir выстрелил в точку (0;5) и Miss
+Bot выстрелил в точку (3;1) и Miss
+
+
+New GameKir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (7;7) и Miss
+Kir выстрелил в точку (3;3) и Hit
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (4;0) и Miss
+Kir выстрелил в точку (2;3) и Kill
+Kir выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (3;6) и Hit
+Bot выстрелил в точку (4;6) и Miss
+
+
+New GameKir выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (3;0) и Miss
+Kir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Kir выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (0;8) и Miss
+Kir выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (5;7) и Miss
+Kir выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (1;5) и Miss
+Kir выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (6;9) и Miss
+Kir выстрелил в точку (2;3) и Hit
+Kir выстрелил в точку (3;3) и Hit
+Kir выстрелил в точку (4;3) и Kill
+Kir выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Kir выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (0;0) и Miss
+Kir выстрелил в точку (9;3) и Miss
+Bot выстрелил в точку (7;1) и Hit
+Bot выстрелил в точку (8;1) и Miss
+Kir выстрелил в точку (8;4) и Miss
+Bot выстрелил в точку (6;1) и Miss
+Kir выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (7;2) и Hit
+Bot выстрелил в точку (7;0) и Hit
+Bot выстрелил в точку (7;3) и Kill
+Bot выстрелил в точку (0;7) и Hit
+Bot выстрелил в точку (0;6) и Kill
+Bot выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (5;8) и Miss
+Bot выстрелил в точку (0;9) и Miss
+Kir выстрелил в точку (2;8) и Miss
+Bot выстрелил в точку (4;2) и Hit
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (0;7) и Hit
+
+
+New GameKir выстрелил в точку (2;3) и Hit
+Kir выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (8;1) и Miss
+Kir выстрелил в точку (1;3) и Hit
+Kir выстрелил в точку (0;3) и Kill
+
+
+New GameKir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (8;1) и Miss
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Kir выстрелил в точку (3;3) и Kill
+Kir выстрелил в точку (3;6) и Miss
+Bot выстрелил в точку (5;3) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (3;8) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Kill
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (8;5) и Miss
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (6;6) и Kill
+Bot выстрелил в точку (0;7) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (7;2) и Miss
+Kir выстрелил в точку (1;5) и Hit
+Kir выстрелил в точку (1;6) и Kill
+Kir выстрелил в точку (5;6) и Miss
+Bot выстрелил в точку (8;6) и Miss
+
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Gameg выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (7;7) и Hit
+Bot выстрелил в точку (7;8) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Hit
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (0;1) и Hit
+Kir выстрелил в точку (0;2) и Kill
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (6;4) и Miss
+Kir выстрелил в точку (4;3) и Hit
+Kir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (8;4) и Miss
+Kir выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (9;8) и Miss
+Kir выстрелил в точку (4;2) и Kill
+Kir выстрелил в точку (7;2) и Miss
+Bot выстрелил в точку (7;7) и Miss
+
+
+New Game выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (6;3) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (6;9) и Hit
+Bot выстрелил в точку (5;9) и Miss
+
+
+New GameKr выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Kr выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (5;1) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Hit
+Игрок выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (3;9) и Kill
+Bot выстрелил в точку (4;2) и Hit
+Bot выстрелил в точку (3;2) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Hit
+Игрок выстрелил в точку (1;0) и Kill
+Игрок выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (1;4) и Miss
+
+
+New Gamek выстрелил в точку (0;0) и Hit
+k выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (8;7) и Hit
+Bot выстрелил в точку (9;7) и Miss
+k выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (7;7) и Miss
+
+
+New Gamey выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (0;8) и Hit
+Bot выстрелил в точку (0;7) и Miss
+y выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (1;8) и Hit
+
+
+New Gameg выстрелил в точку (0;0) и Hit
+
+
+New Gamed выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (7;1) и Hit
+Bot выстрелил в точку (7;2) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (0;9) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Hit
+Игрок выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (1;8) и Miss
+Игрок выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Игрок выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (0;7) и Hit
+Bot выстрелил в точку (0;6) и Hit
+Bot выстрелил в точку (0;8) и Miss
+
+
+New GameИгрок выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (3;1) и Miss
+Игрок выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (6;2) и Miss
+Игрок выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (6;7) и Miss
+
+
+New GameKir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (8;5) и Miss
+Kir выстрелил в точку (4;4) и Kill
+Kir выстрелил в точку (4;7) и Miss
+Bot выстрелил в точку (8;2) и Miss
+Kir выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (6;3) и Miss
+Kir выстрелил в точку (8;5) и Hit
+Kir выстрелил в точку (8;4) и Hit
+Kir выстрелил в точку (8;3) и Hit
+Kir выстрелил в точку (8;2) и Kill
+Kir выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (2;5) и Miss
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (1;8) и Miss
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (2;8) и Miss
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (4;9) и Miss
+Bot выстрелил в точку (3;1) и Miss
+Kir выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (6;6) и Miss
+Kir выстрелил в точку (6;6) и Hit
+Kir выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (5;9) и Miss
+Kir выстрелил в точку (5;6) и Miss
+Bot выстрелил в точку (9;5) и Miss
+Kir выстрелил в точку (6;7) и Kill
+Kir выстрелил в точку (8;7) и Miss
+Bot выстрелил в точку (8;1) и Miss
+Kir выстрелил в точку (7;9) и Kill
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (3;5) и Miss
+Kir выстрелил в точку (2;2) и Hit
+Kir выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (3;8) и Miss
+Kir выстрелил в точку (3;2) и Hit
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (1;2) и Kill
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (4;6) и Kill
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (5;0) и Miss
+Bot выстрелил в точку (8;7) и Hit
+Bot выстрелил в точку (8;8) и Hit
+Bot выстрелил в точку (8;6) и Miss
+Kir выстрелил в точку (6;2) и Hit
+Kir выстрелил в точку (6;3) и Kill
+Kir выстрелил в точку (7;0) и Miss
+Bot выстрелил в точку (8;9) и Kill
+Bot выстрелил в точку (0;5) и Miss
+Kir выстрелил в точку (1;6) и Hit
+Kir выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (2;6) и Hit
+Kir выстрелил в точку (3;6) и Miss
+Bot выстрелил в точку (0;9) и Hit
+Bot выстрелил в точку (0;8) и Kill
+Bot выстрелил в точку (5;1) и Hit
+Bot выстрелил в точку (5;2) и Hit
+Bot выстрелил в точку (5;3) и Hit
+Bot выстрелил в точку (5;4) и Kill
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (0;6) и Kill
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (8;3) и Hit
+Bot выстрелил в точку (9;3) и Miss
+Kir выстрелил в точку (1;9) и Miss
+Bot выстрелил в точку (7;3) и Miss
+Kir выстрелил в точку (2;9) и Miss
+Bot выстрелил в точку (8;4) и Kill
+Bot выстрелил в точку (2;3) и Kill
+Bot выстрелил в точку (7;1) и Miss
+Kir выстрелил в точку (1;8) и Kill
+Kir выстрелил в точку (4;8) и Miss
+Bot выстрелил в точку (6;8) и Hit
+Bot выстрелил в точку (6;9) и Hit
+Bot выстрелил в точку (6;7) и Kill
+Bot выстрелил в точку (3;0) и Miss
+Kir выстрелил в точку (3;8) и Miss
+Bot выстрелил в точку (7;0) и Miss
+Kir выстрелил в точку (9;8) и Hit
+Kir выстрелил в точку (9;9) и Kill
+Kir выстрелил в точку (5;9) и Miss
+Bot выстрелил в точку (4;9) и Miss
+Kir выстрелил в точку (3;9) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Kir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (1;5) и Miss
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (2;7) и Miss
+Kir выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (9;1) и Kill
+Bot выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (4;0) и Miss
+Bot выстрелил в точку (2;9) и Miss
+Kir выстрелил в точку (9;0) и Miss
+Bot выстрелил в точку (1;6) и Miss
+Kir выстрелил в точку (8;0) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (6;0) и Kill
+Kir выстрелил в точку (3;0) и Miss
+Победил Kir
+
+
+New GameKir выстрелил в точку (0;0) и Hit
+Kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (4;2) и Miss
+Kir выстрелил в точку (1;0) и Kill
+Kir выстрелил в точку (4;0) и Miss
+Bot выстрелил в точку (8;7) и Miss
+Kir выстрелил в точку (4;2) и Hit
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (5;5) и Miss
+Kir выстрелил в точку (3;2) и Hit
+Kir выстрелил в точку (2;2) и Hit
+Kir выстрелил в точку (1;2) и Kill
+Kir выстрелил в точку (7;2) и Miss
+Bot выстрелил в точку (9;2) и Miss
+Kir выстрелил в точку (7;5) и Miss
+Bot выстрелил в точку (8;0) и Miss
+Kir выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (3;7) и Hit
+Bot выстрелил в точку (4;7) и Miss
+Kir выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (2;7) и Miss
+Kir выстрелил в точку (6;7) и Miss
+Bot выстрелил в точку (3;8) и Miss
+Kir выстрелил в точку (4;9) и Hit
+Kir выстрелил в точку (3;9) и Miss
+Bot выстрелил в точку (3;6) и Hit
+Bot выстрелил в точку (3;5) и Kill
+Bot выстрелил в точку (9;7) и Miss
+Kir выстрелил в точку (5;9) и Kill
+Kir выстрелил в точку (7;9) и Miss
+Bot выстрелил в точку (8;3) и Miss
+Kir выстрелил в точку (7;7) и Miss
+Bot выстрелил в точку (6;2) и Miss
+Kir выстрелил в точку (7;6) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Kir выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (9;4) и Miss
+Bot выстрелил в точку (0;5) и Miss
+Kir выстрелил в точку (9;6) и Miss
+Bot выстрелил в точку (4;9) и Kill
+Bot выстрелил в точку (1;6) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (7;0) и Miss
+Bot выстрелил в точку (5;6) и Miss
+Kir выстрелил в точку (8;0) и Miss
+Bot выстрелил в точку (3;0) и Miss
+
+
+New GameИгрок выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (9;3) и Miss
+
+
+New Gamefe выстрелил в точку (6;0) и Miss
+Bot выстрелил в точку (4;6) и Miss
+fe выстрелил в точку (6;2) и Miss
+Bot выстрелил в точку (8;3) и Miss
+fe выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (0;7) и Miss
+fe выстрелил в точку (5;6) и Miss
+Bot выстрелил в точку (4;7) и Miss
+fe выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (7;0) и Miss
+fe выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (5;2) и Miss
+fe выстрелил в точку (8;8) и Miss
+Bot выстрелил в точку (9;7) и Miss
+fe выстрелил в точку (6;9) и Miss
+Bot выстрелил в точку (3;7) и Miss
+fe выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (5;4) и Miss
+fe выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (8;9) и Miss
+fe выстрелил в точку (3;2) и Kill
+fe выстрелил в точку (5;1) и Hit
+fe выстрелил в точку (5;2) и Hit
+fe выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (7;4) и Miss
+fe выстрелил в точку (5;0) и Kill
+fe выстрелил в точку (8;1) и Miss
+Bot выстрелил в точку (4;8) и Hit
+Bot выстрелил в точку (3;8) и Miss
+fe выстрелил в точку (8;5) и Miss
+Bot выстрелил в точку (4;9) и Kill
+Bot выстрелил в точку (2;5) и Miss
+fe выстрелил в точку (5;5) и Hit
+fe выстрелил в точку (4;5) и Hit
+fe выстрелил в точку (3;5) и Hit
+fe выстрелил в точку (2;5) и Kill
+fe выстрелил в точку (0;2) и Hit
+fe выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (7;9) и Hit
+Bot выстрелил в точку (6;9) и Miss
+fe выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (7;8) и Hit
+Bot выстрелил в точку (7;7) и Kill
+Bot выстрелил в точку (6;3) и Miss
+fe выстрелил в точку (0;3) и Kill
+fe выстрелил в точку (0;6) и Miss
+Bot выстрелил в точку (5;5) и Hit
+Bot выстрелил в точку (5;6) и Miss
+fe выстрелил в точку (0;8) и Hit
+fe выстрелил в точку (0;9) и Kill
+fe выстрелил в точку (2;9) и Miss
+Bot выстрелил в точку (4;5) и Miss
+fe выстрелил в точку (4;8) и Miss
+Bot выстрелил в точку (6;5) и Hit
+Bot выстрелил в точку (7;5) и Kill
+Bot выстрелил в точку (1;1) и Miss
+fe выстрелил в точку (6;8) и Miss
+Bot выстрелил в точку (2;0) и Miss
+fe выстрелил в точку (7;7) и Miss
+Bot выстрелил в точку (2;8) и Miss
+fe выстрелил в точку (8;3) и Miss
+Bot выстрелил в точку (0;4) и Miss
+fe выстрелил в точку (7;1) и Hit
+fe выстрелил в точку (7;2) и Hit
+fe выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (2;7) и Miss
+fe выстрелил в точку (7;0) и Kill
+fe выстрелил в точку (9;2) и Miss
+Bot выстрелил в точку (9;1) и Miss
+fe выстрелил в точку (9;4) и Miss
+Bot выстрелил в точку (2;4) и Miss
+fe выстрелил в точку (9;6) и Kill
+fe выстрелил в точку (9;9) и Miss
+Bot выстрелил в точку (0;3) и Miss
+fe выстрелил в точку (5;8) и Miss
+Bot выстрелил в точку (5;3) и Miss
+fe выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (1;4) и Miss
+fe выстрелил в точку (4;9) и Miss
+Bot выстрелил в точку (0;8) и Miss
+fe выстрелил в точку (5;7) и Hit
+fe выстрелил в точку (4;7) и Miss
+Bot выстрелил в точку (8;0) и Miss
+fe выстрелил в точку (6;7) и Kill
+fe выстрелил в точку (8;9) и Miss
+Bot выстрелил в точку (0;1) и Miss
+fe выстрелил в точку (8;4) и Miss
+Bot выстрелил в точку (2;1) и Miss
+fe выстрелил в точку (7;5) и Miss
+Bot выстрелил в точку (8;1) и Miss
+fe выстрелил в точку (3;9) и Miss
+Bot выстрелил в точку (6;1) и Miss
+fe выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (2;2) и Miss
+fe выстрелил в точку (3;0) и Kill
+fe выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (7;3) и Miss
+fe выстрелил в точку (0;5) и Miss
+Bot выстрелил в точку (1;8) и Hit
+Bot выстрелил в точку (1;9) и Miss
+fe выстрелил в точку (9;1) и Miss
+Bot выстрелил в точку (1;7) и Kill
+Bot выстрелил в точку (3;5) и Hit
+Bot выстрелил в точку (3;6) и Miss
+fe выстрелил в точку (9;0) и Miss
+Bot выстрелил в точку (3;4) и Hit
+Bot выстрелил в точку (3;3) и Hit
+Bot выстрелил в точку (3;2) и Kill
+Bot выстрелил в точку (8;2) и Kill
+Bot выстрелил в точку (6;2) и Kill
+Bot выстрелил в точку (1;2) и Miss
+fe выстрелил в точку (9;3) и Miss
+Bot выстрелил в точку (0;2) и Miss
+fe выстрелил в точку (3;8) и Miss
+Bot выстрелил в точку (5;0) и Miss
+fe выстрелил в точку (5;9) и Miss
+Bot выстрелил в точку (1;0) и Hit
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (4;0) и Miss
+fe выстрелил в точку (7;9) и Kill
+fe выстрелил в точку (9;8) и Miss
+fe выстрелил в точку (2;8) и Miss
+fe выстрелил в точку (1;0) и Miss
+
+
+New Gameki выстрелил в точку (3;3) и Hit
+ki выстрелил в точку (3;4) и Kill
+ki выстрелил в точку (6;7) и Miss
+Bot выстрелил в точку (9;7) и Miss
+ki выстрелил в точку (6;4) и Hit
+ki выстрелил в точку (6;3) и Miss
+Bot выстрелил в точку (8;9) и Kill
+Bot выстрелил в точку (0;1) и Miss
+ki выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (8;4) и Hit
+Bot выстрелил в точку (9;4) и Miss
+
+
+New Gameki выстрелил в точку (0;0) и Miss
+ki выстрелил в точку (1;2) и Miss
+ki выстрелил в точку (3;2) и Miss
+ki выстрелил в точку (3;3) и Miss
+ki выстрелил в точку (3;4) и Hit
+ki выстрелил в точку (2;4) и Hit
+ki выстрелил в точку (1;4) и Hit
+ki выстрелил в точку (0;4) и Miss
+ki выстрелил в точку (4;4) и Kill
+ki выстрелил в точку (4;7) и Miss
+ki выстрелил в точку (3;7) и Miss
+ki выстрелил в точку (3;6) и Miss
+ki выстрелил в точку (2;6) и Miss
+ki выстрелил в точку (2;7) и Miss
+ki выстрелил в точку (1;7) и Miss
+ki выстрелил в точку (1;6) и Miss
+ki выстрелил в точку (6;6) и Miss
+ki выстрелил в точку (6;5) и Miss
+ki выстрелил в точку (7;5) и Miss
+ki выстрелил в точку (7;4) и Hit
+ki выстрелил в точку (7;3) и Miss
+ki выстрелил в точку (6;4) и Hit
+ki выстрелил в точку (8;4) и Kill
+ki выстрелил в точку (9;6) и Miss
+ki выстрелил в точку (8;6) и Miss
+ki выстрелил в точку (8;7) и Miss
+ki выстрелил в точку (7;7) и Miss
+ki выстрелил в точку (6;7) и Miss
+ki выстрелил в точку (6;8) и Hit
+ki выстрелил в точку (5;8) и Miss
+ki выстрелил в точку (6;9) и Miss
+ki выстрелил в точку (7;8) и Hit
+ki выстрелил в точку (8;8) и Kill
+ki выстрелил в точку (5;6) и Miss
+ki выстрелил в точку (4;6) и Miss
+ki выстрелил в точку (7;6) и Miss
+ki выстрелил в точку (9;2) и Miss
+ki выстрелил в точку (9;1) и Hit
+ki выстрелил в точку (9;0) и Miss
+ki выстрелил в точку (8;0) и Miss
+ki выстрелил в точку (8;1) и Kill
+ki выстрелил в точку (6;2) и Kill
+ki выстрелил в точку (5;0) и Kill
+ki выстрелил в точку (4;2) и Miss
+ki выстрелил в точку (2;1) и Miss
+ki выстрелил в точку (2;2) и Miss
+ki выстрелил в точку (2;8) и Hit
+ki выстрелил в точку (2;9) и Kill
+ki выстрелил в точку (0;9) и Miss
+ki выстрелил в точку (0;8) и Miss
+ki выстрелил в точку (0;7) и Kill
+ki выстрелил в точку (4;8) и Miss
+ki выстрелил в точку (4;9) и Miss
+ki выстрелил в точку (3;1) и Hit
+ki выстрелил в точку (3;0) и Kill
+ki выстрелил в точку (1;0) и Miss
+ki выстрелил в точку (1;1) и Kill
+
+
+New Gamek выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (5;4) и Miss
+k выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (9;0) и Miss
+k выстрелил в точку (2;2) и Kill
+k выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (3;6) и Kill
+Bot выстрелил в точку (6;0) и Miss
+k выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (0;6) и Hit
+Bot выстрелил в точку (1;6) и Miss
+k выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (0;7) и Hit
+Bot выстрелил в точку (0;8) и Kill
+Bot выстрелил в точку (8;1) и Miss
+k выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (9;8) и Miss
+k выстрелил в точку (5;2) и Hit
+k выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (8;0) и Miss
+
+
+New Gamekir выстрелил в точку (0;0) и Miss
+kir выстрелил в точку (1;0) и Miss
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Kir выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (2;1) и Hit
+Kir выстрелил в точку (3;1) и Miss
+Kir выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (2;2) и Hit
+Kir выстрелил в точку (2;0) и Hit
+Kir выстрелил в точку (2;3) и Kill
+Kir выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (5;3) и Miss
+Kir выстрелил в точку (6;3) и Miss
+Kir выстрелил в точку (7;3) и Miss
+Kir выстрелил в точку (8;3) и Miss
+Kir выстрелил в точку (9;3) и Hit
+Kir выстрелил в точку (9;4) и Hit
+Kir выстрелил в точку (9;2) и Miss
+Kir выстрелил в точку (9;5) и Kill
+Kir выстрелил в точку (9;7) и Miss
+Kir выстрелил в точку (9;8) и Miss
+Kir выстрелил в точку (9;9) и Miss
+Kir выстрелил в точку (8;9) и Miss
+Kir выстрелил в точку (8;8) и Miss
+Kir выстрелил в точку (8;7) и Miss
+Kir выстрелил в точку (7;7) и Hit
+Kir выстрелил в точку (7;8) и Hit
+Kir выстрелил в точку (7;9) и Kill
+Kir выстрелил в точку (7;5) и Kill
+Kir выстрелил в точку (5;4) и Miss
+Kir выстрелил в точку (5;5) и Miss
+Kir выстрелил в точку (5;6) и Miss
+Kir выстрелил в точку (5;7) и Miss
+Kir выстрелил в точку (5;8) и Miss
+Kir выстрелил в точку (5;9) и Miss
+Kir выстрелил в точку (4;9) и Miss
+Kir выстрелил в точку (4;8) и Miss
+Kir выстрелил в точку (4;7) и Kill
+Kir выстрелил в точку (4;2) и Miss
+Kir выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (6;1) и Miss
+Kir выстрелил в точку (7;1) и Miss
+Kir выстрелил в точку (8;1) и Miss
+Kir выстрелил в точку (6;0) и Hit
+Kir выстрелил в точку (5;0) и Kill
+Kir выстрелил в точку (9;0) и Kill
+Kir выстрелил в точку (6;2) и Miss
+Kir выстрелил в точку (5;2) и Miss
+Kir выстрелил в точку (7;2) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Kir выстрелил в точку (2;5) и Hit
+Kir выстрелил в точку (2;7) и Hit
+Kir выстрелил в точку (2;6) и Miss
+Kir выстрелил в точку (2;8) и Miss
+Kir выстрелил в точку (1;7) и Kill
+Kir выстрелил в точку (4;4) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Kir выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (0;1) и Miss
+Kir выстрелил в точку (0;9) и Miss
+Kir выстрелил в точку (1;9) и Miss
+Kir выстрелил в точку (2;9) и Miss
+Kir выстрелил в точку (3;9) и Kill
+Kir выстрелил в точку (0;8) и Miss
+Kir выстрелил в точку (0;7) и Miss
+Kir выстрелил в точку (0;6) и Miss
+Kir выстрелил в точку (0;5) и Miss
+
+
+New Gamekrya выстрелил в точку (0;0) и Miss
+krya выстрелил в точку (1;0) и Miss
+krya выстрелил в точку (2;0) и Miss
+krya выстрелил в точку (3;0) и Miss
+krya выстрелил в точку (3;1) и Hit
+krya выстрелил в точку (3;2) и Miss
+krya выстрелил в точку (2;1) и Miss
+krya выстрелил в точку (4;1) и Hit
+krya выстрелил в точку (5;1) и Hit
+krya выстрелил в точку (6;1) и Kill
+krya выстрелил в точку (6;5) и Miss
+krya выстрелил в точку (3;6) и Miss
+krya выстрелил в точку (2;5) и Hit
+krya выстрелил в точку (2;4) и Hit
+krya выстрелил в точку (2;3) и Miss
+krya выстрелил в точку (2;6) и Kill
+krya выстрелил в точку (4;5) и Miss
+krya выстрелил в точку (4;4) и Miss
+krya выстрелил в точку (6;4) и Miss
+krya выстрелил в точку (8;4) и Miss
+krya выстрелил в точку (8;6) и Miss
+krya выстрелил в точку (6;7) и Miss
+krya выстрелил в точку (4;8) и Kill
+krya выстрелил в точку (1;8) и Miss
+krya выстрелил в точку (1;9) и Miss
+krya выстрелил в точку (2;9) и Miss
+krya выстрелил в точку (2;8) и Kill
+krya выстрелил в точку (0;4) и Miss
+krya выстрелил в точку (0;2) и Miss
+krya выстрелил в точку (0;1) и Miss
+krya выстрелил в точку (1;1) и Miss
+krya выстрелил в точку (1;2) и Miss
+krya выстрелил в точку (4;3) и Miss
+krya выстрелил в точку (5;3) и Kill
+krya выстрелил в точку (5;6) и Hit
+krya выстрелил в точку (5;5) и Kill
+krya выстрелил в точку (7;5) и Miss
+krya выстрелил в точку (7;4) и Miss
+krya выстрелил в точку (9;2) и Miss
+krya выстрелил в точку (8;1) и Miss
+krya выстрелил в точку (9;0) и Kill
+krya выстрелил в точку (9;6) и Miss
+krya выстрелил в точку (9;7) и Hit
+krya выстрелил в точку (9;8) и Miss
+krya выстрелил в точку (8;7) и Kill
+krya выстрелил в точку (7;9) и Miss
+krya выстрелил в точку (8;9) и Miss
+krya выстрелил в точку (9;9) и Miss
+krya выстрелил в точку (9;4) и Miss
+krya выстрелил в точку (9;3) и Miss
+krya выстрелил в точку (0;7) и Hit
+krya выстрелил в точку (0;8) и Hit
+krya выстрелил в точку (0;9) и Kill
+krya выстрелил в точку (0;5) и Miss
+krya выстрелил в точку (0;3) и Miss
+krya выстрелил в точку (7;3) и Miss
+krya выстрелил в точку (8;3) и Hit
+krya выстрелил в точку (8;2) и Kill
+Победил krya
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (9;3) и Hit
+Bot выстрелил в точку (8;3) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (9;4) и Hit
+Bot выстрелил в точку (9;2) и Miss
+Kir выстрелил в точку (6;4) и Miss
+Bot выстрелил в точку (9;5) и Hit
+Bot выстрелил в точку (9;6) и Kill
+Bot выстрелил в точку (3;6) и Miss
+Kir выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (1;9) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (7;4) и Hit
+Bot выстрелил в точку (7;5) и Miss
+Kir выстрелил в точку (7;7) и Hit
+Kir выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (6;4) и Kill
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (7;6) и Kill
+Kir выстрелил в точку (7;1) и Hit
+Kir выстрелил в точку (8;1) и Miss
+Bot выстрелил в точку (3;9) и Miss
+Kir выстрелил в точку (6;1) и Miss
+Bot выстрелил в точку (5;9) и Miss
+Kir выстрелил в точку (7;2) и Hit
+Kir выстрелил в точку (7;3) и Kill
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (9;0) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (2;9) и Miss
+Kir выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (1;7) и Miss
+Kir выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (0;1) и Miss
+Kir выстрелил в точку (2;8) и Miss
+Bot выстрелил в точку (4;9) и Miss
+Kir выстрелил в точку (5;9) и Hit
+Kir выстрелил в точку (4;9) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (6;9) и Miss
+Bot выстрелил в точку (0;7) и Miss
+Kir выстрелил в точку (5;8) и Hit
+Kir выстрелил в точку (5;7) и Kill
+Kir выстрелил в точку (0;3) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (1;2) и Kill
+Kir выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (2;5) и Miss
+Kir выстрелил в точку (9;3) и Hit
+Kir выстрелил в точку (9;2) и Hit
+Kir выстрелил в точку (9;1) и Hit
+Kir выстрелил в точку (9;0) и Kill
+Kir выстрелил в точку (9;7) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Kir выстрелил в точку (9;6) и Miss
+Bot выстрелил в точку (0;6) и Miss
+Kir выстрелил в точку (9;9) и Miss
+Bot выстрелил в точку (6;0) и Miss
+Kir выстрелил в точку (0;7) и Miss
+Bot выстрелил в точку (0;3) и Hit
+Bot выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (0;4) и Kill
+Bot выстрелил в точку (5;0) и Miss
+Kir выстрелил в точку (1;8) и Miss
+Bot выстрелил в точку (1;6) и Miss
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (7;2) и Miss
+Kir выстрелил в точку (3;2) и Kill
+Kir выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (4;7) и Miss
+Kir выстрелил в точку (5;4) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (5;2) и Miss
+Bot выстрелил в точку (4;2) и Miss
+Kir выстрелил в точку (5;0) и Hit
+Kir выстрелил в точку (5;1) и Kill
+Kir выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (7;1) и Kill
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (3;0) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (2;1) и Hit
+Bot выстрелил в точку (1;1) и Kill
+Bot выстрелил в точку (8;9) и Kill
+Bot выстрелил в точку (2;6) и Miss
+Kir выстрелил в точку (0;5) и Miss
+Bot выстрелил в точку (9;1) и Miss
+Kir выстрелил в точку (0;9) и Kill
+Kir выстрелил в точку (2;6) и Hit
+Kir выстрелил в точку (2;7) и Kill
+Kir выстрелил в точку (2;9) и Miss
+Bot выстрелил в точку (3;4) и Miss
+Kir выстрелил в точку (7;9) и Miss
+Bot выстрелил в точку (3;8) и Miss
+Kir выстрелил в точку (9;8) и Miss
+Bot выстрелил в точку (3;3) и Miss
+Kir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (5;7) и Miss
+Kir выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (6;6) и Hit
+Bot выстрелил в точку (5;6) и Hit
+Bot выстрелил в точку (4;6) и Kill
+Bot выстрелил в точку (0;9) и Hit
+Bot выстрелил в точку (0;8) и Kill
+Bot выстрелил в точку (4;8) и Miss
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (2;8) и Kill
+Bot выстрелил в точку (6;8) и Miss
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (4;4) и Miss
+Kir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (6;9) и Kill
+Победил Kir
+
+
+New Game
+
+New Game
+
+New Gamel выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (6;3) и Miss
+l выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (2;3) и Miss
+l выстрелил в точку (4;5) и Kill
+l выстрелил в точку (6;5) и Miss
+
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New GameИгрок выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Игрок выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (4;0) и Miss
+
+
+New Game
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (5;2) и Miss
+Kir выстрелил в точку (1;1) и Hit
+Kir выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (0;3) и Hit
+Bot выстрелил в точку (0;2) и Kill
+Bot выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (0;1) и Kill
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (2;3) и Miss
+
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New GameИгрок выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Игрок выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (6;0) и Miss
+Игрок выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (5;4) и Miss
+Игрок выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Игрок выстрелил в точку (5;3) и Kill
+Игрок выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (1;6) и Miss
+Игрок выстрелил в точку (2;2) и Hit
+Игрок выстрелил в точку (2;1) и Kill
+Игрок выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Игрок выстрелил в точку (5;0) и Miss
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (0;1) и Miss
+Игрок выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Игрок выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (1;2) и Kill
+Bot выстрелил в точку (4;6) и Miss
+Игрок выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (2;6) и Miss
+Игрок выстрелил в точку (0;3) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Игрок выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (3;5) и Kill
+Bot выстрелил в точку (1;5) и Miss
+Игрок выстрелил в точку (1;6) и Hit
+Игрок выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (0;5) и Kill
+Bot выстрелил в точку (6;4) и Miss
+Игрок выстрелил в точку (3;6) и Miss
+Bot выстрелил в точку (5;2) и Miss
+Игрок выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (6;3) и Miss
+Игрок выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (6;6) и Miss
+Игрок выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (1;0) и Miss
+Игрок выстрелил в точку (6;6) и Hit
+Игрок выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (5;6) и Miss
+Игрок выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (5;1) и Miss
+Игрок выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Игрок выстрелил в точку (6;0) и Miss
+Bot выстрелил в точку (6;1) и Miss
+Игрок выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (4;2) и Hit
+Bot выстрелил в точку (4;1) и Miss
+
+
+New GameИгрок выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (3;0) и Miss
+Игрок выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Игрок выстрелил в точку (4;5) и Hit
+
+
+New GameKir выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (5;5) и Miss
+Kir выстрелил в точку (3;6) и Miss
+Bot выстрелил в точку (4;4) и Hit
+Bot выстрелил в точку (3;4) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (4;5) и Miss
+Kir выстрелил в точку (1;5) и Hit
+Kir выстрелил в точку (1;6) и Miss
+Bot выстрелил в точку (5;4) и Kill
+Bot выстрелил в точку (4;0) и Miss
+Kir выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (0;5) и Miss
+Kir выстрелил в точку (0;5) и Kill
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (5;2) и Miss
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (4;2) и Kill
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (6;0) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (2;1) и Hit
+Kir выстрелил в точку (2;0) и Kill
+Kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (0;0) и Miss
+Kir выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (6;4) и Miss
+Bot выстрелил в точку (4;6) и Miss
+Kir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (1;2) и Hit
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (5;6) и Miss
+Bot выстрелил в точку (0;2) и Kill
+Bot выстрелил в точку (5;6) и Hit
+
+
+New GameKir выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (3;5) и Miss
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (0;1) и Miss
+Kir выстрелил в точку (5;0) и Miss
+Bot выстрелил в точку (2;4) и Kill
+Bot выстрелил в точку (4;0) и Miss
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (3;0) и Miss
+Kir выстрелил в точку (0;3) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (5;0) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (4;2) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (4;4) и Kill
+Bot выстрелил в точку (0;0) и Miss
+Kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (0;5) и Kill
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (3;2) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (4;1) и Kill
+Bot выстрелил в точку (1;0) и Hit
+Bot выстрелил в точку (1;1) и Kill
+Bot выстрелил в точку (0;3) и Kill
+Победил Bot
+
+
+New Gamekkir выстрелил в точку (1;0) и Hit
+kkir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (1;0) и Miss
+kkir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (4;2) и Miss
+kkir выстрелил в точку (0;0) и Kill
+kkir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (0;4) и Kill
+Bot выстрелил в точку (1;1) и Miss
+kkir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (2;4) и Miss
+kkir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (4;3) и Miss
+kkir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (3;0) и Miss
+kkir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (3;2) и Miss
+kkir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (3;4) и Miss
+kkir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (2;1) и Kill
+Bot выстрелил в точку (4;1) и Miss
+kkir выстрелил в точку (0;3) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (0;1) и Kill
+Bot выстрелил в точку (2;3) и Kill
+Победил Bot
+
+
+New Gamekir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (3;1) и Miss
+kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (4;1) и Miss
+kir выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (1;0) и Miss
+kir выстрелил в точку (3;1) и Hit
+kir выстрелил в точку (3;0) и Kill
+kir выстрелил в точку (1;0) и Kill
+kir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (0;1) и Kill
+Bot выстрелил в точку (3;3) и Miss
+kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (1;3) и Miss
+kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (2;1) и Miss
+kir выстрелил в точку (2;3) и Kill
+kir выстрелил в точку (0;3) и Kill
+Победил kir
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (5;3) и Hit
+Bot выстрелил в точку (5;4) и Miss
+Kir выстрелил в точку (2;2) и Kill
+Kir выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (6;3) и Miss
+Kir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (5;2) и Kill
+Bot выстрелил в точку (5;7) и Miss
+Kir выстрелил в точку (5;3) и Hit
+Kir выстрелил в точку (5;2) и Hit
+Kir выстрелил в точку (5;1) и Kill
+Kir выстрелил в точку (7;2) и Miss
+Bot выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (7;4) и Miss
+Bot выстрелил в точку (7;4) и Kill
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (7;7) и Miss
+Bot выстрелил в точку (1;5) и Miss
+Kir выстрелил в точку (3;5) и Kill
+Kir выстрелил в точку (1;5) и Hit
+Kir выстрелил в точку (1;4) и Kill
+Kir выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (2;6) и Miss
+Kir выстрелил в точку (2;0) и Kill
+Kir выстрелил в точку (7;1) и Miss
+Bot выстрелил в точку (3;4) и Hit
+Bot выстрелил в точку (3;5) и Hit
+Bot выстрелил в точку (3;6) и Miss
+Kir выстрелил в точку (6;6) и Hit
+Kir выстрелил в точку (6;5) и Miss
+Bot выстрелил в точку (3;3) и Kill
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (2;1) и Kill
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (6;7) и Miss
+Bot выстрелил в точку (1;6) и Miss
+Kir выстрелил в точку (7;6) и Kill
+Kir выстрелил в точку (7;3) и Miss
+Bot выстрелил в точку (3;7) и Miss
+Kir выстрелил в точку (3;7) и Hit
+Kir выстрелил в точку (4;7) и Kill
+Kir выстрелил в точку (0;7) и Miss
+Bot выстрелил в точку (6;6) и Hit
+Bot выстрелил в точку (6;7) и Kill
+Bot выстрелил в точку (0;3) и Kill
+Bot выстрелил в точку (0;7) и Miss
+Kir выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (2;7) и Miss
+Kir выстрелил в точку (0;1) и Kill
+Победил Kir
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (4;0) и Miss
+Kir выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (1;2) и Miss
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (4;3) и Kill
+Kir выстрелил в точку (1;4) и Kill
+Kir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (0;4) и Miss
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (3;0) и Hit
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (2;3) и Hit
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (4;0) и Kill
+Kir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (3;3) и Miss
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (2;2) и Kill
+Bot выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (0;2) и Kill
+Победил Kir
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (4;2) и Hit
+Bot выстрелил в точку (3;2) и Miss
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (0;3) и Miss
+Bot выстрелил в точку (4;1) и Kill
+Bot выстрелил в точку (4;4) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (1;2) и Miss
+Kir выстрелил в точку (2;0) и Kill
+Kir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (0;4) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (2;1) и Miss
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (0;1) и Miss
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (1;3) и Hit
+Kir выстрелил в точку (1;4) и Kill
+Kir выстрелил в точку (3;3) и Kill
+Kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (0;2) и Kill
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (4;0) и Kill
+Победил Kir
+
+
+New Game
+
+New Gamekir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (6;6) и Kill
+Bot выстрелил в точку (3;0) и Miss
+kir выстрелил в точку (3;5) и Miss
+Bot выстрелил в точку (8;8) и Hit
+Bot выстрелил в точку (8;7) и Miss
+kir выстрелил в точку (6;4) и Miss
+Bot выстрелил в точку (7;8) и Miss
+kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (8;9) и Kill
+Bot выстрелил в точку (2;6) и Hit
+Bot выстрелил в точку (2;5) и Hit
+Bot выстрелил в точку (2;4) и Kill
+Bot выстрелил в точку (2;8) и Miss
+kir выстрелил в точку (1;6) и Miss
+Bot выстрелил в точку (8;5) и Miss
+kir выстрелил в точку (5;8) и Miss
+Bot выстрелил в точку (4;0) и Miss
+kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (0;3) и Miss
+kir выстрелил в точку (6;2) и Miss
+Bot выстрелил в точку (5;2) и Hit
+Bot выстрелил в точку (5;1) и Hit
+Bot выстрелил в точку (5;0) и Miss
+kir выстрелил в точку (7;0) и Miss
+Bot выстрелил в точку (5;3) и Hit
+Bot выстрелил в точку (5;4) и Kill
+Bot выстрелил в точку (9;5) и Hit
+Bot выстрелил в точку (9;6) и Kill
+Bot выстрелил в точку (3;2) и Miss
+kir выстрелил в точку (8;2) и Miss
+Bot выстрелил в точку (2;2) и Miss
+kir выстрелил в точку (8;5) и Hit
+kir выстрелил в точку (8;6) и Hit
+kir выстрелил в точку (8;7) и Miss
+Bot выстрелил в точку (2;9) и Kill
+Bot выстрелил в точку (0;4) и Miss
+kir выстрелил в точку (8;4) и Kill
+kir выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (0;6) и Miss
+kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (6;8) и Miss
+kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (4;7) и Hit
+Bot выстрелил в точку (4;8) и Miss
+kir выстрелил в точку (3;7) и Miss
+Bot выстрелил в точку (4;6) и Kill
+Bot выстрелил в точку (8;0) и Kill
+Bot выстрелил в точку (2;0) и Miss
+kir выстрелил в точку (2;8) и Miss
+Bot выстрелил в точку (0;5) и Miss
+kir выстрелил в точку (1;7) и Miss
+Bot выстрелил в точку (7;3) и Miss
+kir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (5;9) и Miss
+kir выстрелил в точку (5;6) и Hit
+kir выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (1;0) и Miss
+kir выстрелил в точку (4;6) и Hit
+kir выстрелил в точку (3;6) и Hit
+kir выстрелил в точку (2;6) и Miss
+Bot выстрелил в точку (1;1) и Hit
+Bot выстрелил в точку (2;1) и Hit
+Bot выстрелил в точку (0;1) и Kill
+Bot выстрелил в точку (9;3) и Miss
+kir выстрелил в точку (6;6) и Kill
+kir выстрелил в точку (7;8) и Miss
+Bot выстрелил в точку (9;2) и Miss
+kir выстрелил в точку (3;9) и Miss
+Bot выстрелил в точку (0;9) и Kill
+Победил Bot
+
+
+New Game6 выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (1;0) и Miss
+
+
+New GameKir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (2;2) и Kill
+Bot выстрелил в точку (0;8) и Kill
+Bot выстрелил в точку (8;2) и Miss
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (0;6) и Hit
+
+
+New GameИгрок выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (8;6) и Hit
+Bot выстрелил в точку (8;5) и Miss
+Игрок выстрелил в точку (5;7) и Miss
+Bot выстрелил в точку (7;6) и Miss
+Игрок выстрелил в точку (7;4) и Kill
+Игрок выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (9;6) и Kill
+Bot выстрелил в точку (6;2) и Miss
+Игрок выстрелил в точку (2;7) и Miss
+Bot выстрелил в точку (1;1) и Hit
+Bot выстрелил в точку (2;1) и Hit
+Bot выстрелил в точку (0;1) и Miss
+
+
+New Game
+
+New GameKir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (0;1) и Hit
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (5;5) и Miss
+Kir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (2;1) и Kill
+Bot выстрелил в точку (5;0) и Miss
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (2;5) и Miss
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (4;3) и Miss
+Kir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (5;2) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Kir выстрелил в точку (5;5) и Miss
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (4;0) и Miss
+Bot выстрелил в точку (5;4) и Kill
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (5;1) и Miss
+Kir выстрелил в точку (0;1) и Hit
+Kir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (3;4) и Miss
+Kir выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (1;5) и Miss
+Kir выстрелил в точку (1;1) и Kill
+Kir выстрелил в точку (4;1) и Miss
+Bot выстрелил в точку (3;5) и Kill
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (3;3) и Hit
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (0;5) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (0;4) и Kill
+Bot выстрелил в точку (3;3) и Kill
+Победил Bot
+
+
+New GameKir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (1;4) и Miss
+
+
+New Game
+
+New Gamel выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (3;2) и Miss
+
+
+New GameKir выстрелил в точку (1;6) и Kill
+Kir выстрелил в точку (4;6) и Miss
+Bot выстрелил в точку (2;0) и Miss
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (2;6) и Miss
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (3;6) и Miss
+Kir выстрелил в точку (5;1) и Miss
+Bot выстрелил в точку (1;2) и Miss
+Kir выстрелил в точку (5;4) и Miss
+Bot выстрелил в точку (6;2) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (3;5) и Miss
+Kir выстрелил в точку (0;2) и Miss
+Bot выстрелил в точку (5;3) и Miss
+Kir выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (4;4) и Hit
+Bot выстрелил в точку (3;4) и Kill
+Bot выстрелил в точку (4;1) и Kill
+Bot выстрелил в точку (1;6) и Miss
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (5;2) и Miss
+Bot выстрелил в точку (1;4) и Hit
+Bot выстрелил в точку (1;3) и Kill
+Bot выстрелил в точку (6;3) и Miss
+Kir выстрелил в точку (6;3) и Kill
+Kir выстрелил в точку (4;2) и Miss
+Bot выстрелил в точку (6;1) и Miss
+Kir выстрелил в точку (2;1) и Miss
+Bot выстрелил в точку (5;6) и Miss
+Kir выстрелил в точку (5;0) и Kill
+Kir выстрелил в точку (4;3) и Hit
+Kir выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (1;0) и Kill
+Bot выстрелил в точку (6;0) и Kill
+Bot выстрелил в точку (6;5) и Miss
+Kir выстрелил в точку (4;4) и Kill
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (6;4) и Miss
+Kir выстрелил в точку (0;3) и Hit
+Kir выстрелил в точку (0;4) и Kill
+Kir выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (4;6) и Kill
+Bot выстрелил в точку (6;6) и Miss
+Kir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (0;6) и Kill
+Победил Bot
+
+
+New GameKir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (5;1) и Hit
+Bot выстрелил в точку (5;0) и Miss
+Kir выстрелил в точку (3;2) и Miss
+Bot выстрелил в точку (4;1) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (5;2) и Kill
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (5;2) и Miss
+Bot выстрелил в точку (3;5) и Kill
+Bot выстрелил в точку (3;0) и Kill
+Bot выстрелил в точку (2;3) и Miss
+Kir выстрелил в точку (3;0) и Kill
+Kir выстрелил в точку (0;0) и Hit
+Kir выстрелил в точку (0;1) и Miss
+Bot выстрелил в точку (3;3) и Miss
+Kir выстрелил в точку (1;0) и Kill
+Kir выстрелил в точку (1;3) и Miss
+Bot выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (1;5) и Miss
+Bot выстрелил в точку (1;4) и Miss
+Kir выстрелил в точку (4;5) и Miss
+Bot выстрелил в точку (1;2) и Miss
+Kir выстрелил в точку (4;3) и Miss
+Bot выстрелил в точку (0;5) и Kill
+Bot выстрелил в точку (5;4) и Miss
+Kir выстрелил в точку (5;4) и Kill
+Kir выстрелил в точку (2;3) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (5;1) и Hit
+Kir выстрелил в точку (5;0) и Kill
+Kir выстрелил в точку (1;2) и Kill
+Kir выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (0;1) и Kill
+Bot выстрелил в точку (3;2) и Miss
+Kir выстрелил в точку (2;5) и Miss
+Bot выстрелил в точку (2;2) и Miss
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (0;5) и Miss
+Bot выстрелил в точку (5;5) и Kill
+Победил Bot
+
+
+New GameKir выстрелил в точку (1;2) и Kill
+Kir выстрелил в точку (3;2) и Hit
+Kir выстрелил в точку (3;3) и Miss
+
+
+New Gamek выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (4;2) и Miss
+k выстрелил в точку (3;2) и Hit
+k выстрелил в точку (3;3) и Miss
+Bot выстрелил в точку (1;0) и Miss
+k выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (2;2) и Miss
+k выстрелил в точку (4;2) и Kill
+k выстрелил в точку (1;2) и Miss
+Bot выстрелил в точку (4;4) и Miss
+k выстрелил в точку (1;4) и Miss
+Bot выстрелил в точку (4;0) и Kill
+Bot выстрелил в точку (3;3) и Miss
+k выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (1;3) и Miss
+k выстрелил в точку (0;0) и Miss
+Bot выстрелил в точку (0;4) и Miss
+k выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (3;2) и Kill
+Bot выстрелил в точку (1;4) и Miss
+k выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (0;0) и Kill
+Bot выстрелил в точку (0;2) и Hit
+Bot выстрелил в точку (0;3) и Kill
+Победил Bot
+
+
+New Game
+
+New GameKir выстрелил в точку (0;0) и Hit
+Kir выстрелил в точку (1;0) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (1;0) и Miss
+Kir выстрелил в точку (0;1) и Kill
+Kir выстрелил в точку (3;1) и Miss
+Bot выстрелил в точку (0;1) и Kill
+Bot выстрелил в точку (3;2) и Miss
+Kir выстрелил в точку (3;4) и Miss
+Bot выстрелил в точку (3;1) и Hit
+Bot выстрелил в точку (2;1) и Kill
+Bot выстрелил в точку (2;4) и Miss
+Kir выстрелил в точку (2;3) и Kill
+Kir выстрелил в точку (5;3) и Miss
+Bot выстрелил в точку (3;3) и Kill
+Bot выстрелил в точку (5;5) и Miss
+
+
+New GameKir выстрелил в точку (1;0) и Hit
+Kir выстрелил в точку (1;1) и Miss
+Bot выстрелил в точку (0;0) и Hit
+Bot выстрелил в точку (1;0) и Kill
+Bot выстрелил в точку (4;0) и Miss
+Kir выстрелил в точку (2;0) и Miss
+Bot выстрелил в точку (4;4) и Miss
+Kir выстрелил в точку (0;0) и Kill
+Kir выстрелил в точку (2;2) и Miss
+Bot выстрелил в точку (0;3) и Miss
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (1;3) и Miss
+Kir выстрелил в точку (0;4) и Miss
+Bot выстрелил в точку (3;3) и Miss
+Kir выстрелил в точку (4;4) и Kill
+Kir выстрелил в точку (3;0) и Miss
+Bot выстрелил в точку (0;2) и Miss
+Kir выстрелил в точку (4;1) и Kill
+Kir выстрелил в точку (1;3) и Kill
+Победил Kir
+
+
+New GameKir выстрелил в точку (2;1) и Kill
+Kir выстрелил в точку (2;4) и Miss
+Bot выстрелил в точку (1;1) и Miss
+Kir выстрелил в точку (4;4) и Miss
+Bot выстрелил в точку (3;0) и Kill
+Bot выстрелил в точку (1;0) и Miss
+
+
+New Game
