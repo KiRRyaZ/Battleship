@@ -27,7 +27,7 @@ namespace Battleship
             LastPoint = new Point(-1, -1);
         }
 
-        public void SetBoard(int boardSize)
+        public virtual void SetBoard(int boardSize)
         {
             Board = new CellState[boardSize, boardSize];
             BoardSize = boardSize;
@@ -79,21 +79,18 @@ namespace Battleship
             set {
                 state = value;
                 value.Bot = this;
-                value.boardSize = BoardSize;
             }
         }
 
-        private Bot() : base()
-        {
-            State = new NotHitState();
-            Name = "Bot";
-        }
+        private Bot() : base() { }
 
         public static Bot GetBot(int boardSize)
         {
             if (bot == null)
                 bot = new Bot();
             bot.SetBoard(boardSize);
+            bot.State = new NotHitState();
+            bot.Name = "Bot";
             return bot;
         }
 

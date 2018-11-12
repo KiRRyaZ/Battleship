@@ -9,10 +9,19 @@ namespace Battleship
 {
     abstract public class BotState
     {
-        public Bot Bot { get; set; }
+        private Bot bot;
+        public Bot Bot {
+            get {
+                return bot;
+            }
+            set {
+                bot = value;
+                boardSize = value.BoardSize;
+            }
+        }
 
         protected Random random = new Random();
-        public int boardSize;
+        protected int boardSize;
 
         public abstract Point ChooseCell();
         public abstract void AfterShoot(HitType shoot);
