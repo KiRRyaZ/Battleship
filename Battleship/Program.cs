@@ -7,7 +7,7 @@ using System.Drawing;
 using System.IO;
 using System.Threading;
 
-namespace Lab2
+namespace Battleship
 {
     class Program
     {
