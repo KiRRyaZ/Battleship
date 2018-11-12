@@ -15,7 +15,7 @@ namespace Battleship
 
         public Fleet() { Ships = new List<Ship>(); }
 
-        public Ship GetBattleship() => Ships.Where(s => s.Position.Count == 4).FirstOrDefault();
+        public Ship[] GetBattleships() => Ships.Where(s => s.Position.Count == 4).ToArray();
         public Ship[] GetCruisers() => Ships.Where(s => s.Position.Count == 3).ToArray();
         public Ship[] GetDestroyers() => Ships.Where(s => s.Position.Count == 2).ToArray();
         public Ship[] GetSubmarines() => Ships.Where(s => s.Position.Count == 1).ToArray();
@@ -42,86 +42,89 @@ namespace Battleship
 
         public void AddBattleship(Point ps, Point pe)
         {
-            if (Ships.Where(s => s.Position.Count == 4).Count() == 1)
-                throw new Exception("Линкор уже был добавлен");
+            if (ps.X < 0 || ps.Y < 0 || pe.X < 0 || pe.Y < 0)
+                throw new ArgumentOutOfRangeException("Start or end point", "Координаты не могут быть меньше нуля");
 
             Ship battleship = new Ship();
             battleship.Add(ps);
             if (ps.X == pe.X)
             {
                 if (Math.Abs(pe.Y - ps.Y) != 3)
-                    throw new ArgumentOutOfRangeException("pe", "Длина корабля не равна 4");
+                    throw new ArgumentOutOfRangeException("End point", "Длина корабля не равна 4");
                 battleship.Add(new Point(ps.X, ps.Y + (ps.Y < pe.Y ? 1 : -1)));
                 battleship.Add(new Point(ps.X, ps.Y + (ps.Y < pe.Y ? 2 : -2)));
             }
             else if (ps.Y == pe.Y)
             {
                 if (Math.Abs(pe.X - ps.X) != 3)
-                    throw new ArgumentOutOfRangeException("pe", "Длина корабля не равна 4");
+                    throw new ArgumentOutOfRangeException("End point", "Длина корабля не равна 4");
                 battleship.Add(new Point(ps.X + (ps.X < pe.X ? 1 : -1), ps.Y));
                 battleship.Add(new Point(ps.X + (ps.X < pe.X ? 2 : -2), ps.Y));
             }
             else
-                throw new ArgumentOutOfRangeException("pe", "Точки не лежат на одной прямой");
+                throw new ArgumentOutOfRangeException("End point", "Точки не лежат на одной прямой");
+
             battleship.Add(pe);
+            if (IsPositionNotCorrect(battleship))
+                throw new ArgumentOutOfRangeException("End point", "Линкор находится слишком близко с уже поставленными кораблями");
             Ships.Add(battleship);
         }
 
         public void AddCruiser(Point ps, Point pe)
         {
-            if (Ships.Where(s => s.Position.Count == 3).Count() == 2)
-                throw new Exception("Уже было добавлено максимальное кол-во крейсеров");
+            if (ps.X < 0 || ps.Y < 0 || pe.X < 0 || pe.Y < 0)
+                throw new ArgumentOutOfRangeException("Start or end point", "Координаты не могут быть меньше нуля");
 
             Ship cruiser = new Ship();
             cruiser.Add(ps);
             if (ps.X == pe.X)
             {
                 if (Math.Abs(pe.Y - ps.Y) != 2)
-                    throw new ArgumentOutOfRangeException("pe", "Длина корабля не равна 3");
+                    throw new ArgumentOutOfRangeException("End point", "Длина корабля не равна 3");
                 cruiser.Add(new Point(ps.X, ps.Y + (ps.Y < pe.Y ? 1 : -1)));
             }
             else if (ps.Y == pe.Y)
             {
                 if (Math.Abs(pe.X - ps.X) != 2)
-                    throw new ArgumentOutOfRangeException("pe", "Длина корабля не равна 3");
+                    throw new ArgumentOutOfRangeException("End point", "Длина корабля не равна 3");
                 cruiser.Add(new Point(ps.X + (ps.X < pe.X ? 1 : -1), ps.Y));
             }
             else
-                throw new ArgumentOutOfRangeException("pe", "Точки не лежат на одной прямой");
+                throw new ArgumentOutOfRangeException("End point", "Точки не лежат на одной прямой");
             cruiser.Add(pe);
 
             if (IsPositionNotCorrect(cruiser))
-                throw new ArgumentOutOfRangeException("pe", "Крейсер находится слишком близко с уже поставленными кораблями");
+                throw new ArgumentOutOfRangeException("End point", "Крейсер находится слишком близко с уже поставленными кораблями");
             Ships.Add(cruiser);
         }
 
         public void AddDestroyer(Point ps, Point pe)
         {
-            if (Ships.Where(s => s.Position.Count == 2).Count() == 3)
-                throw new Exception("Уже было добавлено максимальное кол-во эсминцев");
+            if (ps.X < 0 || ps.Y < 0 || pe.X < 0 || pe.Y < 0)
+                throw new ArgumentOutOfRangeException("Start or end point", "Координаты не могут быть меньше нуля");
 
             if (Len(ps, pe) != 1)
-                throw new ArgumentOutOfRangeException("pe", "Длина корабля не равна 2");
+                throw new ArgumentOutOfRangeException("End point", "Длина корабля не равна 2");
 
             Ship destroyer = new Ship();
             destroyer.Add(ps);
             destroyer.Add(pe);
 
             if (IsPositionNotCorrect(destroyer))
-                throw new ArgumentOutOfRangeException("pe", "Эсминец находится слишком близко с уже поставленными кораблями");
+                throw new ArgumentOutOfRangeException("End point", "Эсминец находится слишком близко с уже поставленными кораблями");
             Ships.Add(destroyer);
         }
 
         public void AddSubmarine(Point p)
         {
-            if (Ships.Where(s => s.Position.Count == 1).Count() == 4)
-                throw new Exception("Уже было добавлено максимальное кол-во субмарин");
+            if (p.X < 0 || p.Y < 0)
+                throw new ArgumentOutOfRangeException("Point", "Координаты не могут быть меньше нуля");
 
             Ship submarine = new Ship();
             submarine.Add(p);
 
             if (IsPositionNotCorrect(submarine))
-                throw new ArgumentOutOfRangeException("p", "Субмарина находится слишком близко с уже поставленными кораблями");
+                throw new ArgumentOutOfRangeException("Point", "Субмарина находится слишком близко с уже поставленными кораблями");
             Ships.Add(submarine);
         }
 
@@ -171,11 +174,24 @@ namespace Battleship
             Position = new Dictionary<Point, ShipCellState>();
         }
 
+        private double Len(Point p1, Point p2)
+        {
+            return Math.Sqrt(Math.Pow(p2.X - p1.X, 2) + Math.Pow(p2.Y - p1.Y, 2));
+        }
+
         public void Add(Point p)
         {
-            if (Position.Count == 4)
-                throw new Exception("Корабль не может быть больше 4 клеток");
-            Position[p] = ShipCellState.Alive;
+            if (Position.Count != 0)
+            {
+                int x = Position.Keys.First().X;
+                int y = Position.Keys.First().Y;
+                if (((Position.Keys.All(pnt => pnt.X == x) && p.X == x) || (Position.Keys.All(pnt => pnt.Y == y) && p.Y == y)) 
+                    && Position.Keys.Any(pnt => Len(pnt, p) == 1))
+                    Position[p] = ShipCellState.Alive;
+                else
+                    throw new ArgumentOutOfRangeException("Point", "Точки должны лежать на одной прямой и быть рядом с друг другом");
+            } else
+                Position[p] = ShipCellState.Alive;
         }
     }
 }

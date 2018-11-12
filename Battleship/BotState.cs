@@ -9,22 +9,22 @@ namespace Battleship
 {
     abstract public class BotState
     {
-        private Bot bot;
-        public Bot Bot {
-            get {
-                return bot;
-            }
-            set {
-                bot = value;
-                boardSize = value.BoardSize;
-            }
-        }
+        public Bot Bot { get; set; }
+        protected Point p;
+        protected bool IsPointValid() => !(p.X >= Bot.BoardSize || p.X < 0 || p.Y >= Bot.BoardSize || p.Y < 0);
+        protected bool IsCellUnknown() => Bot.Board[p.X, p.Y] == CellState.Unknown;
+        protected List<Point> cases;
 
         protected Random random = new Random();
-        protected int boardSize;
 
         public abstract Point ChooseCell();
         public abstract void AfterShoot(HitType shoot);
+
+        public BotState()
+        {
+            p = new Point();            
+            cases = new List<Point>();
+        }
     }
     
 
@@ -32,14 +32,19 @@ namespace Battleship
     {
         public override Point ChooseCell()
         {
-            Point p = new Point();
+            List<Point> visited = new List<Point>();
+            int max_iter = Bot.BoardSize * Bot.BoardSize;            
             do
             {
-                p.X = random.Next(0, boardSize);
-                p.Y = random.Next(0, boardSize);
-            } while (!Bot.Board[p.X, p.Y].Equals(CellState.Unknown));
-
-            return p;
+                p.X = random.Next(0, Bot.BoardSize);
+                p.Y = random.Next(0, Bot.BoardSize);
+                if (visited.Contains(p))
+                    continue;
+                visited.Add(p);
+                if (IsCellUnknown())
+                    return p;
+            } while (visited.Count < max_iter);
+            throw new Exception($"Не могу найти клетку");            
         }
 
         public override void AfterShoot(HitType shoot)
@@ -54,6 +59,7 @@ namespace Battleship
             {
                 Bot.LastHitted.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
+                Bot.LastHitted.Clear();
             }
         }
     }
@@ -62,25 +68,21 @@ namespace Battleship
     {
         public override Point ChooseCell()
         {
-            Point p = new Point();
+            cases.Clear();
+            p.X = Bot.LastHitted[0].X;
+            p.Y = Bot.LastHitted[0].Y;
+            cases.Add(new Point(p.X + 1, p.Y));
+            cases.Add(new Point(p.X - 1, p.Y));
+            cases.Add(new Point(p.X, p.Y + 1));
+            cases.Add(new Point(p.X, p.Y - 1));
             do
             {
-                p.X = Bot.LastHitted[0].X;
-                p.Y = Bot.LastHitted[0].Y;
-                switch (random.Next(0, 4))
-                {
-                    case 0: p.X++;
-                        break;
-                    case 1: p.X--;
-                        break;
-                    case 2: p.Y++;
-                        break;
-                    case 3: p.Y--;
-                        break;
-                }
-            } while (p.X >= boardSize || p.X < 0 || p.Y >= boardSize || p.Y < 0 || !Bot.Board[p.X, p.Y].Equals(CellState.Unknown));
-
-            return p;
+                p = cases[random.Next(0, cases.Count)];
+                cases.Remove(p);
+                if (IsPointValid() && IsCellUnknown())
+                    return p;
+            } while (cases.Count > 0);
+            throw new Exception("Не могу найти клетку");
         }
 
         public override void AfterShoot(HitType shoot)
@@ -95,6 +97,7 @@ namespace Battleship
                 Bot.State = new NotHitState();
                 Bot.LastHitted.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
+                Bot.LastHitted.Clear();
             }
         }
     }
@@ -103,32 +106,27 @@ namespace Battleship
     {
         public override Point ChooseCell()
         {
-            Point p = new Point();
-            bool isHorizontal = Bot.LastHitted[0].X == Bot.LastHitted[1].X;
-            if (isHorizontal)
-                p.X = Bot.LastHitted[0].X;
-            else
-                p.Y = Bot.LastHitted[0].Y;
-            do
+            cases.Clear();
+            if (Bot.LastHitted[0].X == Bot.LastHitted[1].X)
             {
-                switch (random.Next(0, 2))
-                {
-                    case 0:
-                        if (isHorizontal)
-                            p.Y = Bot.LastHitted.Select(s => s.Y).Max() + 1;
-                        else
-                            p.X = Bot.LastHitted.Select(s => s.X).Max() + 1;
-                        break;
-                    case 1:
-                        if (isHorizontal)
-                            p.Y = Bot.LastHitted.Select(s => s.Y).Min() - 1;
-                        else
-                            p.X = Bot.LastHitted.Select(s => s.X).Min() - 1;
-                        break;
-                }
-            } while (p.X >= boardSize || p.X < 0 || p.Y >= boardSize || p.Y < 0 || !Bot.Board[p.X, p.Y].Equals(CellState.Unknown));
-
-            return p;
+                p.X = Bot.LastHitted[0].X;
+                cases.Add(new Point(p.X, Bot.LastHitted.Select(s => s.Y).Max() + 1));
+                cases.Add(new Point(p.X, Bot.LastHitted.Select(s => s.Y).Min() - 1));
+            }
+            else
+            {
+                p.Y = Bot.LastHitted[0].Y;
+                cases.Add(new Point(Bot.LastHitted.Select(s => s.X).Max() + 1, p.Y));
+                cases.Add(new Point(Bot.LastHitted.Select(s => s.X).Min() - 1, p.Y));
+            }
+            do
+            { 
+                p = cases[random.Next(0, cases.Count)];
+                cases.Remove(p);
+                if (IsPointValid() && IsCellUnknown())
+                    return p;
+            } while (cases.Count > 0);
+            throw new Exception("Не могу найти клетку");
         }
 
         public override void AfterShoot(HitType shoot)
@@ -138,6 +136,7 @@ namespace Battleship
                 Bot.State = new NotHitState();
                 Bot.LastHitted.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
+                Bot.LastHitted.Clear();
             }
             else if (shoot.Equals(HitType.Hit))
             {

@@ -68,7 +68,7 @@ namespace Battleship
             String name = GUI.StartWithName().Trim();
             int boardSize = GUI.GetBoardSize();
 
-            FleetBuilder builder = new FleetBuilder(new RandomBuildStrategy(boardSize));
+            FleetBuilder builder = new FleetBuilder(new RandomBuildStrategy());
 
             Bot = Bot.GetBot(boardSize);
             Bot.Fleet = builder.GetFleet(boardSize);
@@ -79,7 +79,7 @@ namespace Battleship
 
 
             if (GUI.IsGUIStrategy())
-                builder.SetStrategy(new GUIBuildStrategy());
+                builder.BuildStrategy = new GUIBuildStrategy();
 
             bool success = false;
             do

@@ -19,7 +19,7 @@ namespace Battleship
         public CellState[,] Board { get; protected set; }
         public List<Point> LastHitted { get; set; }
         public Point LastPoint { get; set; }
-        public int BoardSize { get; private set; }
+        public int BoardSize => Board.GetLength(0);
 
         public Player()
         {
@@ -27,10 +27,11 @@ namespace Battleship
             LastPoint = new Point(-1, -1);
         }
 
-        public virtual void SetBoard(int boardSize)
+        public void ChangeBoard(int boardSize)
         {
+            if (boardSize > 10 || boardSize < 5)
+                throw new ArgumentOutOfRangeException("Размер доски должен быть от 5 до 10");
             Board = new CellState[boardSize, boardSize];
-            BoardSize = boardSize;
         }
 
         public abstract HitType GetShootIn(Point p);
@@ -82,14 +83,14 @@ namespace Battleship
             }
         }
 
-        private Bot() : base() { }
+        private Bot():base() { }
 
         public static Bot GetBot(int boardSize)
         {
             if (bot == null)
                 bot = new Bot();
-            bot.SetBoard(boardSize);
-            bot.State = new NotHitState();
+            bot.ChangeBoard(boardSize);
+            bot.State = new NotHitState();            
             bot.Name = "Bot";
             return bot;
         }
@@ -106,8 +107,9 @@ namespace Battleship
 
         public override HitType GetShootIn(Point p)
         {
-            return Fleet.GetShootIn(p);  
+            return Fleet.GetShootIn(p);
         }
+
     }
 
     public class Human : Player
@@ -115,13 +117,13 @@ namespace Battleship
         public Human(string name , int boardSize) : base()
         {
             Name = name;
-            SetBoard(boardSize);
+            ChangeBoard(boardSize);
         }
 
         public HitType Shoot(Point p)
         {
             if (p.X < 0 || p.X >= BoardSize || p.Y < 0 || p.Y >= BoardSize)
-                throw new ArgumentException($"Точка должна быть в пределах доски {BoardSize}x{BoardSize}");
+                throw new ArgumentOutOfRangeException($"Точка должна быть в пределах доски {BoardSize}x{BoardSize}");
             if (!Board[p.X, p.Y].Equals(CellState.Unknown))
                 throw new ArgumentException("Вы уже стреляли в эту точку");
             HitType shoot = Opponent.GetShootIn(p);

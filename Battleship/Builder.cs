@@ -9,12 +9,12 @@ namespace Battleship
 {
     public interface IBuildStrategy
     {
-        void PrepareBeforeBuild(Fleet fleet);
+        void PrepareBeforeBuild(Fleet fleet, int boardSize);
 
-        void BuildBattleship(Fleet fleet);
-        void BuildCruisers(Fleet fleet);
-        void BuildDestroyers(Fleet fleet);
-        void BuildSubmarines(Fleet fleet);
+        void BuildBattleship();
+        void BuildCruisers();
+        void BuildDestroyers();
+        void BuildSubmarines();
     }
 
     public class RandomBuildStrategy : IBuildStrategy
@@ -22,207 +22,187 @@ namespace Battleship
         Random r = new Random();
         Point ps = new Point();
         Point pe = new Point();
-        public int BoardSize { get; set; }
-
-        public RandomBuildStrategy(int BoardSize)
-        {
-            this.BoardSize = BoardSize;
+        private int boardSize;
+        public int BoardSize {
+            get {
+                return boardSize;
+            }
+            set {
+                if (value >= 0)
+                {
+                    boardSize = value;
+                    max_iter = boardSize * boardSize;
+                }
+                else
+                    throw new ArgumentOutOfRangeException("Размер доски должен быть больше 0");
+            }
         }
 
-        public void BuildBattleship(Fleet fleet)
+        bool IsEndPointValid() => !(pe.X >= BoardSize || pe.X < 0 || pe.Y >= BoardSize || pe.Y < 0);
+        public Fleet Fleet { get; private set; }
+        int max_iter;
+        List<Point> visited;
+        List<Point> cases;
+
+        public RandomBuildStrategy()
+        {            
+            visited = new List<Point>();
+            cases = new List<Point>();
+        }
+
+        private void BuildShip(int size, string name, Action<Point, Point> AddShip)
         {
-            ps = new Point(r.Next(0, BoardSize), r.Next(0, BoardSize));
+            if (size <= 1)
+                throw new ArgumentOutOfRangeException("size", "Корабль должен быть больше 1-палубного");
+            size--;
+            visited.Clear();            
             do
             {
-                pe.X = ps.X;
-                pe.Y = ps.Y;
-                switch (r.Next(0, 4))
-                {
-                    case 0:
-                        pe.X += 3;
-                        break;
-                    case 1:
-                        pe.X -= 3;
-                        break;
-                    case 2:
-                        pe.Y += 3;
-                        break;
-                    case 3:
-                        pe.Y -= 3;
-                        break;
-                }
-            } while (pe.X >= BoardSize || pe.X < 0 || pe.Y >= BoardSize || pe.Y < 0);
-            fleet.AddBattleship(ps, pe);
-        }
-
-        public void BuildCruisers(Fleet fleet)
-        {
-            while (true)
-            {
-                ps.X = r.Next(0, BoardSize);
-                ps.Y = r.Next(0, BoardSize);
+                ps = new Point(r.Next(0, BoardSize), r.Next(0, BoardSize));
+                if (visited.Contains(ps))
+                    continue;
+                visited.Add(ps);
+                cases.Clear();
+                cases.Add(new Point(ps.X + size, ps.Y));
+                cases.Add(new Point(ps.X - size, ps.Y));
+                cases.Add(new Point(ps.X, ps.Y + size));
+                cases.Add(new Point(ps.X, ps.Y - size));
                 do
                 {
-                    pe.X = ps.X;
-                    pe.Y = ps.Y;
-                    switch (r.Next(0, 4))
-                    {
-                        case 0:
-                            pe.X += 2;
-                            break;
-                        case 1:
-                            pe.X -= 2;
-                            break;
-                        case 2:
-                            pe.Y += 2;
-                            break;
-                        case 3:
-                            pe.Y -= 2;
-                            break;
-                    }
-                } while (pe.X >= BoardSize || pe.X < 0 || pe.Y >= BoardSize || pe.Y < 0);
-                try
-                {
-                    fleet.AddCruiser(ps, pe);
-                    break;
-                }
-                catch (ArgumentOutOfRangeException) { }
-            }
+                    pe = cases[r.Next(0, cases.Count)];
+                    cases.Remove(pe);
+                    if (IsEndPointValid())
+                        try
+                        {
+                            AddShip(ps, pe);
+                            return;
+                        }
+                        catch (ArgumentOutOfRangeException) { }
+                } while (cases.Count > 0);
+            } while (visited.Count < max_iter);
+            throw new Exception($"Не могу разместить {name}");
         }
 
-        public void BuildDestroyers(Fleet fleet)
+        public void BuildBattleship()
         {
-            while (true)
+            BuildShip(4, "линкор", Fleet.AddBattleship);
+        }
+
+        public void BuildCruisers()
+        {
+            BuildShip(3, "крейсер", Fleet.AddCruiser);
+        }
+
+        public void BuildDestroyers()
+        {
+            BuildShip(2, "эсминец", Fleet.AddDestroyer);
+        }
+
+        public void BuildSubmarines()
+        {
+            visited.Clear();
+            do
             {
-                ps.X = r.Next(0, BoardSize);
-                ps.Y = r.Next(0, BoardSize);
-                do
-                {
-                    pe.X = ps.X;
-                    pe.Y = ps.Y;
-                    switch (r.Next(0, 4))
-                    {
-                        case 0:
-                            pe.X++;
-                            break;
-                        case 1:
-                            pe.X--;
-                            break;
-                        case 2:
-                            pe.Y++;
-                            break;
-                        case 3:
-                            pe.Y--;
-                            break;
-                    }
-                } while (pe.X >= BoardSize || pe.X < 0 || pe.Y >= BoardSize || pe.Y < 0);
+                ps = new Point(r.Next(0, BoardSize), r.Next(0, BoardSize));
+                if (visited.Contains(ps))
+                    continue;
+                visited.Add(ps);
                 try
                 {
-                    fleet.AddDestroyer(ps, pe);
-                    break;
+                    Fleet.AddSubmarine(ps);
+                    return;
                 }
                 catch (ArgumentOutOfRangeException) { }
-            }
+            } while (visited.Count < max_iter);
+            throw new Exception($"Не могу построить субмарину");
         }
 
-        public void BuildSubmarines(Fleet fleet)
+        public void PrepareBeforeBuild(Fleet fleet, int boardSize)
         {
-            while (true)
-            {
-                ps.X = r.Next(0, BoardSize);
-                ps.Y = r.Next(0, BoardSize);
-                try
-                {
-                    fleet.AddSubmarine(ps);
-                    break;
-                }
-                catch (ArgumentOutOfRangeException) { }
-            }
-        }
-
-        public void PrepareBeforeBuild(Fleet fleet)
-        {
-            
+            BoardSize = boardSize;
+            Fleet = fleet;
         }
     }
 
     public class GUIBuildStrategy : IBuildStrategy
     {
         Point start, end;
+        public Fleet Fleet { get; private set; }
 
-        public void PrepareBeforeBuild(Fleet fleet)
+        public void PrepareBeforeBuild(Fleet fleet, int boardSize)
         {
             GUI.LEFT = 0; GUI.TOP = 0;
             GUI.left = GUI.LEFT; GUI.top = GUI.TOP;
 
+            Fleet = fleet;
             GUI.PrintFleet(fleet);
             Console.WriteLine("Здесь и дальше нужно ставить только начальную и конечную точки");
         }
 
-        public void BuildBattleship(Fleet fleet)
+        public void BuildBattleship()
         {
             Console.WriteLine("Постройте линкор (4 клетки)");
             Console.SetCursorPosition(GUI.left, GUI.top);
             start = GUI.GetCoords();
             end = GUI.GetCoords();
-            fleet.AddBattleship(start, end);
-            GUI.PrintFleet(fleet);
+            Fleet.AddBattleship(start, end);
+            GUI.PrintFleet(Fleet);
         }
 
-        public void BuildCruisers(Fleet fleet)
+        public void BuildCruisers()
         {
             Console.WriteLine($"Постройте крейсер (3 клетки)");
             Console.SetCursorPosition(GUI.left, GUI.top);
             start = GUI.GetCoords();
             end = GUI.GetCoords();
-            fleet.AddCruiser(start, end);
-            GUI.PrintFleet(fleet);
+            Fleet.AddCruiser(start, end);
+            GUI.PrintFleet(Fleet);
         }
 
-        public void BuildDestroyers(Fleet fleet)
+        public void BuildDestroyers()
         {
             Console.WriteLine($"Постройте уничтожитель (2 клетки)");
             Console.SetCursorPosition(GUI.left, GUI.top);
             start = GUI.GetCoords();
             end = GUI.GetCoords();
-            fleet.AddDestroyer(start, end);
-            GUI.PrintFleet(fleet);
+            Fleet.AddDestroyer(start, end);
+            GUI.PrintFleet(Fleet);
         }
 
-        public void BuildSubmarines(Fleet fleet)
+        public void BuildSubmarines()
         {
             Console.WriteLine($"Постройте субмарину (1 клетка)");
             Console.SetCursorPosition(GUI.left, GUI.top);
             start = GUI.GetCoords();
-            fleet.AddSubmarine(start);
-            GUI.PrintFleet(fleet);
+            Fleet.AddSubmarine(start);
+            GUI.PrintFleet(Fleet);
         }
     }
 
     public class FleetBuilder
     {
         Fleet fleet = new Fleet();
-        IBuildStrategy buildStrategy;
+        public IBuildStrategy BuildStrategy { get; set; }
 
-        public FleetBuilder(IBuildStrategy strategy) => buildStrategy = strategy;
+        public FleetBuilder(IBuildStrategy strategy) => BuildStrategy = strategy;
 
-        public void SetStrategy(IBuildStrategy strategy) => buildStrategy = strategy;
+        public void PrepareBeforeBuild(int boardSize) => BuildStrategy.PrepareBeforeBuild(fleet, boardSize);
 
-        public void PrepareBeforeBuild() => buildStrategy.PrepareBeforeBuild(fleet);
+        public void BuildBattleship() => BuildStrategy.BuildBattleship();
 
-        public void BuildBattleship() => buildStrategy.BuildBattleship(fleet);
+        public void BuildCruisers() => BuildStrategy.BuildCruisers();
 
-        public void BuildCruisers() => buildStrategy.BuildCruisers(fleet);
+        public void BuildDestroyers() => BuildStrategy.BuildDestroyers();
 
-        public void BuildDestroyers() => buildStrategy.BuildDestroyers(fleet);
-
-        public void BuildSubmarines() => buildStrategy.BuildSubmarines(fleet);
+        public void BuildSubmarines() => BuildStrategy.BuildSubmarines();
 
         public Fleet GetFleet(int boardSize)
         {
+            if (boardSize > 10 || boardSize < 5)
+                throw new ArgumentOutOfRangeException("Размер доски должен быть от 5 до 10");
             try
             {
-                PrepareBeforeBuild();
+                PrepareBeforeBuild(boardSize);
                 if(boardSize == 10)
                     BuildBattleship();
                 for (int i = 0; i < (boardSize > 8 ? 2 : boardSize - 7); i++)
@@ -243,6 +223,8 @@ namespace Battleship
                 fleet = new Fleet();
             }
         }
+
+        public Fleet GetFleet() => fleet;
     }
 
 }
