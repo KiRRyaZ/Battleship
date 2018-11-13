@@ -49,17 +49,17 @@ namespace Battleship
 
         public override void AfterShoot(HitType shoot)
         {
-            Bot.LastHitted.Clear();
+            Bot.LastHits.Clear();
             if (shoot.Equals(HitType.Hit))
             {
                 Bot.State = new FirstHitState();
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
             }
             else if (shoot.Equals(HitType.Kill))
             {
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
-                Bot.LastHitted.Clear();
+                Bot.LastHits.Clear();
             }
         }
     }
@@ -69,8 +69,7 @@ namespace Battleship
         public override Point ChooseCell()
         {
             cases.Clear();
-            p.X = Bot.LastHitted[0].X;
-            p.Y = Bot.LastHitted[0].Y;
+            p = Bot.LastPoint;
             cases.Add(new Point(p.X + 1, p.Y));
             cases.Add(new Point(p.X - 1, p.Y));
             cases.Add(new Point(p.X, p.Y + 1));
@@ -90,14 +89,14 @@ namespace Battleship
             if (shoot.Equals(HitType.Hit))
             {
                 Bot.State = new NextHitState();
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
             }
             else if (shoot.Equals(HitType.Kill))
             {
                 Bot.State = new NotHitState();
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
-                Bot.LastHitted.Clear();
+                Bot.LastHits.Clear();
             }
         }
     }
@@ -107,17 +106,17 @@ namespace Battleship
         public override Point ChooseCell()
         {
             cases.Clear();
-            if (Bot.LastHitted[0].X == Bot.LastHitted[1].X)
+            if (Bot.LastHits[0].X == Bot.LastHits[1].X)
             {
-                p.X = Bot.LastHitted[0].X;
-                cases.Add(new Point(p.X, Bot.LastHitted.Select(s => s.Y).Max() + 1));
-                cases.Add(new Point(p.X, Bot.LastHitted.Select(s => s.Y).Min() - 1));
+                p.X = Bot.LastHits[0].X;
+                cases.Add(new Point(p.X, Bot.LastHits.Select(s => s.Y).Max() + 1));
+                cases.Add(new Point(p.X, Bot.LastHits.Select(s => s.Y).Min() - 1));
             }
             else
             {
-                p.Y = Bot.LastHitted[0].Y;
-                cases.Add(new Point(Bot.LastHitted.Select(s => s.X).Max() + 1, p.Y));
-                cases.Add(new Point(Bot.LastHitted.Select(s => s.X).Min() - 1, p.Y));
+                p.Y = Bot.LastHits[0].Y;
+                cases.Add(new Point(Bot.LastHits.Select(s => s.X).Max() + 1, p.Y));
+                cases.Add(new Point(Bot.LastHits.Select(s => s.X).Min() - 1, p.Y));
             }
             do
             { 
@@ -134,13 +133,13 @@ namespace Battleship
             if (shoot.Equals(HitType.Kill))
             {
                 Bot.State = new NotHitState();
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
                 Bot.MissedAroundKilled();
-                Bot.LastHitted.Clear();
+                Bot.LastHits.Clear();
             }
             else if (shoot.Equals(HitType.Hit))
             {
-                Bot.LastHitted.Add(Bot.LastPoint);
+                Bot.LastHits.Add(Bot.LastPoint);
             }
         }
     }

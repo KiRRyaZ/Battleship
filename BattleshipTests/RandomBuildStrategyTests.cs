@@ -11,49 +11,57 @@ namespace BattleshipTests
     [TestClass()]
     public class RandomBuildStrategyTests
     {
+        RandomBuildStrategy rbs = new RandomBuildStrategy();
+        Fleet fleet = new Fleet();
+
+        [TestInitialize()]
+        public void TestInitialize()
+        {
+            rbs.PrepareBeforeBuild(fleet, 10);
+        }
+
+        [TestMethod()]
+        public void BuildBattleshipSmallBoardSizeTest()
+        {
+            rbs.PrepareBeforeBuild(fleet, 1);
+            Assert.ThrowsException<Exception>(() => rbs.BuildBattleship());
+        }
+
         [TestMethod()]
         public void BuildBattleshipTest()
         {
-            RandomBuildStrategy rbs = new RandomBuildStrategy();            
-            Fleet fleet = new Fleet();
-            rbs.PrepareBeforeBuild(fleet, 1);
-            Assert.ThrowsException<Exception>(() => rbs.BuildBattleship());
-
-            rbs.PrepareBeforeBuild(fleet, 10);
             rbs.BuildBattleship();
             Assert.AreEqual(1, fleet.GetBattleships().Length);
-
             rbs.BuildBattleship();
             Assert.AreEqual(2, fleet.GetBattleships().Length);
         }
 
         [TestMethod()]
+        public void BuildCruisersSmallBoardSizeTest()
+        {
+            rbs.PrepareBeforeBuild(fleet, 1);
+            Assert.ThrowsException<Exception>(() => rbs.BuildCruisers());
+        }
+
+        [TestMethod()]
         public void BuildCruisersTest()
         {
-            RandomBuildStrategy rbs = new RandomBuildStrategy();
-            Fleet fleet = new Fleet();
-            rbs.PrepareBeforeBuild(fleet, 1);
-            Assert.AreEqual(0, fleet.GetCruisers().Length);
-            Assert.ThrowsException<Exception>(() => rbs.BuildCruisers());
-
-            rbs.PrepareBeforeBuild(fleet, 5);
             rbs.BuildCruisers();
             Assert.AreEqual(1, fleet.GetCruisers().Length);
             rbs.BuildCruisers();
             Assert.AreEqual(2, fleet.GetCruisers().Length);
+        }
 
+        [TestMethod()]
+        public void BuildDestroyersSmallBoardSizeTest()
+        {
+            rbs.PrepareBeforeBuild(fleet, 1);
+            Assert.ThrowsException<Exception>(() => rbs.BuildDestroyers());
         }
 
         [TestMethod()]
         public void BuildDestroyersTest()
         {
-            RandomBuildStrategy rbs = new RandomBuildStrategy();
-            Fleet fleet = new Fleet();
-            rbs.PrepareBeforeBuild(fleet, 1);
-            Assert.AreEqual(0, fleet.GetDestroyers().Length);
-            Assert.ThrowsException<Exception>(() => rbs.BuildDestroyers());
-
-            rbs.PrepareBeforeBuild(fleet, 10);
             rbs.BuildDestroyers();
             Assert.AreEqual(1, fleet.GetDestroyers().Length);
             rbs.BuildDestroyers();
@@ -62,11 +70,7 @@ namespace BattleshipTests
 
         [TestMethod()]
         public void BuildSubmarinesTest()
-        {
-            RandomBuildStrategy rbs = new RandomBuildStrategy();
-            Fleet fleet = new Fleet();
-            rbs.PrepareBeforeBuild(fleet, 10);
-            Assert.AreEqual(0, fleet.GetSubmarines().Length);            
+        {       
             rbs.BuildSubmarines();
             Assert.AreEqual(1, fleet.GetSubmarines().Length);
             rbs.BuildSubmarines();
@@ -74,14 +78,21 @@ namespace BattleshipTests
         }
 
         [TestMethod()]
-        public void PrepareBeforeBuildTest()
+        public void PrepareBeforeBuildBoardSizeTest()
         {
-            RandomBuildStrategy rbs = new RandomBuildStrategy();
-            Fleet fleet = new Fleet();
-            rbs.PrepareBeforeBuild(fleet, 10);
             Assert.AreEqual(10, rbs.BoardSize);
+        }
+
+        [TestMethod()]
+        public void PrepareBeforeBuildFleetTest()
+        {
             Assert.AreEqual(fleet, rbs.Fleet);
-            Assert.ThrowsException<ArgumentOutOfRangeException>(() => rbs.PrepareBeforeBuild(new Fleet(), -5));
+        }
+
+        [TestMethod()]
+        public void PrepareBeforeBuildInvalidBoardSizeTest()
+        {
+            Assert.ThrowsException<ArgumentOutOfRangeException>(() => rbs.PrepareBeforeBuild(fleet, -5));
         }
     }
 }

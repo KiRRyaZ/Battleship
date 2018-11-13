@@ -12,65 +12,70 @@ namespace BattleshipTests
     [TestClass()]
     public class FirstHitStateTests
     {
-        [TestMethod()]
-        public void StateTest()
+        FirstHitState state = new FirstHitState();
+        Bot bot = Bot.GetBot(10);
+
+        [TestInitialize()]
+        public void TestInitialize()
         {
-            FirstHitState state = new FirstHitState();
-            Assert.IsNull(state.Bot);
-            state.Bot = Bot.GetBot(10);
-            Assert.IsNotNull(state.Bot);
-            Assert.AreEqual(10, state.Bot.BoardSize);            
+            bot.State = state;
+            bot.LastHits.Clear();
+            bot.ChangeBoard(10);
         }
+
+        [TestMethod()]
+        public void ChooseCellWithoutBotTest()
+        {
+            state.Bot = null;
+            Assert.ThrowsException<NullReferenceException>(() => state.ChooseCell());
+        }
+
         [TestMethod()]
         public void ChooseCellTest()
-        {
-            FirstHitState state = new FirstHitState();
-            Assert.ThrowsException<NullReferenceException>(() => state.ChooseCell());
-            state.Bot = Bot.GetBot(10);
-            state.Bot.State = state;
-            state.Bot.LastHitted.Clear();
+        {            
+            bot.LastPoint = new Point(5, 5);
+            bot.Board[4, 5] = CellState.Missed;
+            bot.Board[5, 4] = CellState.Missed;
+            bot.Board[6, 5] = CellState.Missed;
 
-            state.Bot.LastPoint = new Point(0, 0);
-            state.Bot.LastHitted.Add(state.Bot.LastPoint);
-            state.Bot.Board[0, 1] = CellState.Missed;
-            Assert.AreEqual(new Point(1, 0), state.ChooseCell());
-            state.Bot.LastHitted.Clear();
-
-            state.Bot.LastPoint = new Point(5, 5);
-            state.Bot.LastHitted.Add(state.Bot.LastPoint);
-            state.Bot.Board[4, 5] = CellState.Missed;
-            state.Bot.Board[5, 4] = CellState.Missed;
-            state.Bot.Board[6, 5] = CellState.Missed;
             Assert.AreEqual(new Point(5, 6), state.ChooseCell());
-
-            state.Bot.Board[5, 6] = CellState.Missed;
-            Assert.ThrowsException<Exception>(() => state.ChooseCell());
-
         }
 
         [TestMethod()]
-        public void AfterShootTest()
+        public void ChooseCellFromAllKnownTest()
         {
-            FirstHitState state = new FirstHitState();
-            state.Bot = Bot.GetBot(10);
-            state.Bot.LastPoint = new Point(0, 0);
-            state.Bot.LastHitted.Add(state.Bot.LastPoint);
-            state.Bot.State = state;
-            state.Bot.LastHitted.Clear();
+            bot.LastPoint = new Point(5, 5);
+            bot.Board[4, 5] = CellState.Missed;
+            bot.Board[5, 4] = CellState.Missed;
+            bot.Board[6, 5] = CellState.Missed;
+            bot.Board[5, 6] = CellState.Missed;
 
+            Assert.ThrowsException<Exception>(() => state.ChooseCell());
+        }
+
+        [TestMethod()]
+        public void AfterMissShootTest()
+        {
             state.AfterShoot(HitType.Miss);
-            Assert.IsInstanceOfType(state.Bot.State, new FirstHitState().GetType());
-            Assert.AreEqual(0, state.Bot.LastHitted.Count);
+            Assert.IsInstanceOfType(bot.State, new FirstHitState().GetType());
+        }
 
+        [TestMethod()]
+        public void AfterKillShootTest()
+        {
             state.AfterShoot(HitType.Kill);
             Assert.IsInstanceOfType(state.Bot.State, new NotHitState().GetType());
-            Assert.AreEqual(0, state.Bot.LastHitted.Count);
+            Assert.AreEqual(0, bot.LastHits.Count);
+        }
 
-            state.Bot.State = state;
+        [TestMethod()]
+        public void AfterHitShootTest()
+        {
+            bot.LastPoint = new Point(0, 0);
 
             state.AfterShoot(HitType.Hit);
             Assert.IsInstanceOfType(state.Bot.State, new NextHitState().GetType());
-            Assert.AreEqual(1, state.Bot.LastHitted.Count);
+            Assert.AreEqual(bot.LastPoint, state.Bot.LastHits.Last());
         }
     }
 }

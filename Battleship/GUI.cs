@@ -119,7 +119,12 @@ namespace Battleship
             {
                 sh1 = pl1.Fleet.Ships[i];
                 sh2 = pl2.Fleet.Ships[i];
-                Console.WriteLine($"{sh1.Position.Count}-палубный: \t{sh1.State}\t\t\t{sh2.State}");
+                Console.Write($"{sh1.Position.Count}-палубный: \t");
+                Console.ForegroundColor = sh1.State == ShipState.Alive ? ConsoleColor.DarkGreen : ConsoleColor.Red;
+                Console.Write($"{sh1.State}\t\t\t");
+                Console.ForegroundColor = sh2.State == ShipState.Alive ? ConsoleColor.DarkGreen : ConsoleColor.Red;
+                Console.WriteLine(sh2.State);
+                Console.ResetColor();
             }
             Console.WriteLine();
         }
@@ -152,7 +157,7 @@ namespace Battleship
                         Console.ForegroundColor = ConsoleColor.Green;
                     switch (opponent.Board[i, j])
                     {
-                        case CellState.Hitted:
+                        case CellState.Hit:
                             toPoint = 'x';
                             break;
                         case CellState.Missed:
@@ -175,7 +180,7 @@ namespace Battleship
                         Console.ForegroundColor = ConsoleColor.DarkMagenta;
                     switch (player.Board[i, j])
                     {
-                        case CellState.Hitted:
+                        case CellState.Hit:
                             toPoint = 'x';
                             break;
                         case CellState.Missed:
@@ -214,7 +219,7 @@ namespace Battleship
                     char toPoint = ' ';
                     switch (player.Board[i, j])
                     {
-                        case CellState.Hitted:
+                        case CellState.Hit:
                             toPoint = 'x';
                             break;
                         case CellState.Missed:

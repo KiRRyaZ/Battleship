@@ -138,14 +138,14 @@ namespace Battleship
                 switch (ship.Position[p])
                 {
                     case ShipCellState.Alive:
-                        ship.Position[p] = ShipCellState.Hitted;
-                        if (ship.Position.Values.All(s => s.Equals(ShipCellState.Hitted)))
+                        ship.Position[p] = ShipCellState.Hit;
+                        if (ship.Position.Values.All(s => s.Equals(ShipCellState.Hit)))
                         {
                             ship.State = ShipState.Sunk;
                             return HitType.Kill;
                         }
                         return HitType.Hit;
-                    case ShipCellState.Hitted:
+                    case ShipCellState.Hit:
                         throw new ArgumentException("Вы уже стреляли в эту точку");
                 }
             else
@@ -160,7 +160,7 @@ namespace Battleship
         }
     }
 
-    public enum ShipCellState { Alive, Hitted }
+    public enum ShipCellState { Alive, Hit }
 
     public class Ship
     {

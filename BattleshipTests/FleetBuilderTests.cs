@@ -11,70 +11,79 @@ namespace BattleshipTests
     [TestClass()]
     public class FleetBuilderTests
     {
+        FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
+        Fleet fleet = new Fleet();
+
         [TestMethod()]
-        public void FleetBuilderTest()
+        public void FleetBuilderStrategyTest()
         {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            Assert.IsNotNull(fleetBuilder);
             Assert.IsNotNull(fleetBuilder.BuildStrategy);
         }
 
         [TestMethod()]
-        public void PrepareBeforeBuildTest()
+        public void GetFleetForInvalidBoardSizeTest()
         {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            fleetBuilder.PrepareBeforeBuild(10);
+            Assert.ThrowsException<ArgumentOutOfRangeException>(() => fleetBuilder.GetFleet(3));
         }
 
         [TestMethod()]
-        public void BuildBattleshipTest()
+        public void GetFleetFor10BoardTest()
         {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            fleetBuilder.PrepareBeforeBuild(10);
-            fleetBuilder.BuildBattleship();
-        }
-
-        [TestMethod()]
-        public void BuildCruisersTest()
-        {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            fleetBuilder.PrepareBeforeBuild(10);
-            fleetBuilder.BuildCruisers();
-        }
-
-        [TestMethod()]
-        public void BuildDestroyersTest()
-        {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            fleetBuilder.PrepareBeforeBuild(10);
-            fleetBuilder.BuildDestroyers();
-        }
-
-        [TestMethod()]
-        public void BuildSubmarinesTest()
-        {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            fleetBuilder.PrepareBeforeBuild(10);
-            fleetBuilder.BuildSubmarines();
-        }
-
-        [TestMethod()]
-        public void GetFleetTest()
-        {
-            FleetBuilder fleetBuilder = new FleetBuilder(new RandomBuildStrategy());
-            Fleet fleet = fleetBuilder.GetFleet(10);
+            fleet = fleetBuilder.GetFleet(10);
             Assert.AreEqual(1, fleet.GetBattleships().Length);
             Assert.AreEqual(2, fleet.GetCruisers().Length);
             Assert.AreEqual(3, fleet.GetDestroyers().Length);
             Assert.AreEqual(4, fleet.GetSubmarines().Length);
+        }
+
+        [TestMethod()]
+        public void GetFleetFor9BoardTest()
+        {
+            fleet = fleetBuilder.GetFleet(9);
+            Assert.AreEqual(0, fleet.GetBattleships().Length);
+            Assert.AreEqual(2, fleet.GetCruisers().Length);
+            Assert.AreEqual(3, fleet.GetDestroyers().Length);
+            Assert.AreEqual(4, fleet.GetSubmarines().Length);
+        }
+
+        [TestMethod()]
+        public void GetFleetFor8BoardTest()
+        {
+            fleet = fleetBuilder.GetFleet(8);
+            Assert.AreEqual(0, fleet.GetBattleships().Length);
+            Assert.AreEqual(1, fleet.GetCruisers().Length);
+            Assert.AreEqual(3, fleet.GetDestroyers().Length);
+            Assert.AreEqual(4, fleet.GetSubmarines().Length);
+        }
+
+        [TestMethod()]
+        public void GetFleetFor7BoardTest()
+        {
             fleet = fleetBuilder.GetFleet(7);
             Assert.AreEqual(0, fleet.GetBattleships().Length);
             Assert.AreEqual(0, fleet.GetCruisers().Length);
             Assert.AreEqual(3, fleet.GetDestroyers().Length);
             Assert.AreEqual(4, fleet.GetSubmarines().Length);
+        }
 
-            Assert.ThrowsException<ArgumentOutOfRangeException>(() => fleetBuilder.GetFleet(3));
-            Assert.ThrowsException<ArgumentOutOfRangeException>(() => fleetBuilder.GetFleet(33));
+        [TestMethod()]
+        public void GetFleetFor6BoardTest()
+        {
+            fleet = fleetBuilder.GetFleet(6);
+            Assert.AreEqual(0, fleet.GetBattleships().Length);
+            Assert.AreEqual(0, fleet.GetCruisers().Length);
+            Assert.AreEqual(2, fleet.GetDestroyers().Length);
+            Assert.AreEqual(4, fleet.GetSubmarines().Length);
+        }
+
+        [TestMethod()]
+        public void GetFleetFor5BoardTest()
+        {
+            fleet = fleetBuilder.GetFleet(5);
+            Assert.AreEqual(0, fleet.GetBattleships().Length);
+            Assert.AreEqual(0, fleet.GetCruisers().Length);
+            Assert.AreEqual(1, fleet.GetDestroyers().Length);
+            Assert.AreEqual(3, fleet.GetSubmarines().Length);
         }
     }
 }

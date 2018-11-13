@@ -11,63 +11,68 @@ namespace BattleshipTests
 {
     [TestClass()]
     public class NextHitStateTests
-    {        
-        [TestMethod()]
-        public void StateTest()
+    {
+        NextHitState state = new NextHitState();
+        Bot bot = Bot.GetBot(10);
+
+        [TestInitialize()]
+        public void TestInitialize()
         {
-            NextHitState state = new NextHitState();
-            Assert.IsNull(state.Bot);
-            state.Bot = Bot.GetBot(10);
-            Assert.IsNotNull(state.Bot);
-            Assert.AreEqual(10, state.Bot.BoardSize);            
+            bot.State = state;
+            bot.LastHits.Clear();
+            bot.ChangeBoard(10);
         }
+
+        [TestMethod()]
+        public void ChooseCellWithoutBotTest()
+        {
+            state.Bot = null;
+            Assert.ThrowsException<NullReferenceException>(() => state.ChooseCell());
+        }
+
         [TestMethod()]
         public void ChooseCellTest()
         {
-            NextHitState state = new NextHitState();
-            Assert.ThrowsException<NullReferenceException>(() => state.ChooseCell());
-            state.Bot = Bot.GetBot(10);
-            state.Bot.State = state;
-            state.Bot.LastHitted.Clear();
-
-            state.Bot.LastHitted.Add(new Point(5, 5));
-            state.Bot.LastHitted.Add(new Point(5, 6));
+            bot.LastHits.Add(new Point(5, 5));
+            bot.LastHits.Add(new Point(5, 6));
             state.Bot.Board[5, 7] = CellState.Missed;
             Assert.AreEqual(new Point(5, 4), state.ChooseCell());
+        }
 
-            state.Bot.LastHitted.Clear();
-            state.Bot.LastHitted.Add(new Point(2, 2));
-            state.Bot.LastHitted.Add(new Point(3, 2));
-            state.Bot.Board[1, 2] = CellState.Missed;
-            Assert.AreEqual(new Point(4, 2), state.ChooseCell());
+        [TestMethod()]
+        public void ChooseCellFromAllKnownTest()
+        {
+            bot.LastHits.Add(new Point(5, 5));
+            bot.LastHits.Add(new Point(5, 6));
+            bot.Board[5, 4] = CellState.Missed;
+            bot.Board[5, 7] = CellState.Missed;
 
-            state.Bot.Board[4, 2] = CellState.Missed;
             Assert.ThrowsException<Exception>(() => state.ChooseCell());
         }
 
         [TestMethod()]
-        public void AfterShootTest()
+        public void AfterMissShootTest()
         {
-            NextHitState state = new NextHitState();
-            state.Bot = Bot.GetBot(10);
-            state.Bot.LastPoint = new Point(0, 0);
-            state.Bot.LastHitted.Clear();
-            state.Bot.LastHitted.Add(state.Bot.LastPoint);
-            state.Bot.State = state;
-
             state.AfterShoot(HitType.Miss);
-            Assert.IsInstanceOfType(state.Bot.State, new NextHitState().GetType());
-            Assert.AreEqual(1, state.Bot.LastHitted.Count);
+            Assert.IsInstanceOfType(bot.State, new NextHitState().GetType());
+        }
 
+        [TestMethod()]
+        public void AfterKillShootTest()
+        {
             state.AfterShoot(HitType.Kill);
             Assert.IsInstanceOfType(state.Bot.State, new NotHitState().GetType());
-            Assert.AreEqual(0, state.Bot.LastHitted.Count);
+            Assert.AreEqual(0, bot.LastHits.Count);
+        }
 
-            state.Bot.State = state;
+        [TestMethod()]
+        public void AfterHitShootTest()
+        {
+            bot.LastPoint = new Point(0, 0);
 
             state.AfterShoot(HitType.Hit);
             Assert.IsInstanceOfType(state.Bot.State, new NextHitState().GetType());
-            Assert.AreEqual(1, state.Bot.LastHitted.Count);
+            Assert.AreEqual(bot.LastPoint, state.Bot.LastHits.Last());
         }
     }
 }

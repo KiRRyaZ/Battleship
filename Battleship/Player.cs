@@ -9,7 +9,7 @@ namespace Battleship
 {
     public enum HitType { Miss, Hit, Kill}
 
-    public enum CellState { Unknown, Missed, Hitted }
+    public enum CellState { Unknown, Missed, Hit }
 
     public abstract class Player
     {
@@ -17,13 +17,13 @@ namespace Battleship
         public String Name { get; set; }
         public Fleet Fleet { get; set; }
         public CellState[,] Board { get; protected set; }
-        public List<Point> LastHitted { get; set; }
+        public List<Point> LastHits { get; set; }
         public Point LastPoint { get; set; }
         public int BoardSize => Board.GetLength(0);
 
         public Player()
         {
-            LastHitted = new List<Point>();
+            LastHits = new List<Point>();
             LastPoint = new Point(-1, -1);
         }
 
@@ -34,26 +34,24 @@ namespace Battleship
             Board = new CellState[boardSize, boardSize];
         }
 
-        public abstract HitType GetShootIn(Point p);
-
         public void MissedAroundKilled()
         {
-            bool isHorizontal = LastHitted.Count == 1 ? true : LastHitted[0].X == LastHitted[1].X;
+            bool isHorizontal = LastHits.Count == 1 ? true : LastHits[0].X == LastHits[1].X;
             int xmin, ymin, xmax, ymax, length;
             if (isHorizontal)
             {
-                xmin = LastHitted[0].X;
+                xmin = LastHits[0].X;
                 xmax = xmin;
-                ymin = LastHitted.Select(s => s.Y).Min();
-                ymax = LastHitted.Select(s => s.Y).Max();
+                ymin = LastHits.Select(s => s.Y).Min();
+                ymax = LastHits.Select(s => s.Y).Max();
                 length = ymax - ymin;
             }
             else
             {
-                ymin = LastHitted[0].Y;
+                ymin = LastHits[0].Y;
                 ymax = ymin;
-                xmin = LastHitted.Select(s => s.X).Min();
-                xmax = LastHitted.Select(s => s.X).Max();
+                xmin = LastHits.Select(s => s.X).Min();
+                xmax = LastHits.Select(s => s.X).Max();
                 length = xmax - xmin;
             }
             length++;
@@ -64,6 +62,10 @@ namespace Battleship
                     if (Board[i, j].Equals(CellState.Unknown))
                         Board[i, j] = CellState.Missed;
                 }
+        }
+        public HitType GetShootIn(Point p)
+        {
+            return Fleet.GetShootIn(p);
         }
 
     }
@@ -92,24 +94,28 @@ namespace Battleship
             bot.ChangeBoard(boardSize);
             bot.State = new NotHitState();            
             bot.Name = "Bot";
+            bot.LastHits.Clear();
+            bot.LastPoint = new Point(-1, -1);
             return bot;
         }
 
         public HitType Shoot()
         {
-            Point p = State.ChooseCell();
-            HitType shoot = bot.Opponent.GetShootIn(p);
-            bot.Board[p.X, p.Y] = shoot.Equals(HitType.Miss) ? CellState.Missed : CellState.Hitted;
-            bot.LastPoint = p;
-            State.AfterShoot(shoot);
-            return shoot;
-        }
+            try
+            {
+                Point p = State.ChooseCell();
+                HitType shoot = bot.Opponent.GetShootIn(p);
+                bot.Board[p.X, p.Y] = shoot.Equals(HitType.Miss) ? CellState.Missed : CellState.Hit;
+                bot.LastPoint = p;
+                State.AfterShoot(shoot);
+                return shoot;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message, ex);
+            }
 
-        public override HitType GetShootIn(Point p)
-        {
-            return Fleet.GetShootIn(p);
         }
-
     }
 
     public class Human : Player
@@ -127,21 +133,16 @@ namespace Battleship
             if (!Board[p.X, p.Y].Equals(CellState.Unknown))
                 throw new ArgumentException("Вы уже стреляли в эту точку");
             HitType shoot = Opponent.GetShootIn(p);
-            Board[p.X, p.Y] = shoot.Equals(HitType.Miss) ? CellState.Missed : CellState.Hitted;
+            Board[p.X, p.Y] = shoot.Equals(HitType.Miss) ? CellState.Missed : CellState.Hit;
             if (shoot == HitType.Kill)
             {
-                LastHitted.Add(p);
+                LastHits.Add(p);
                 MissedAroundKilled();
-                LastHitted.Clear();
+                LastHits.Clear();
             }
-            else if (shoot == HitType.Hit) LastHitted.Add(p);
+            else if (shoot == HitType.Hit) LastHits.Add(p);
             LastPoint = p;
             return shoot;
-        }
-
-        public override HitType GetShootIn(Point p)
-        {
-            return Fleet.GetShootIn(p);
         }
     }
 }

@@ -114,7 +114,7 @@ namespace Battleship
                 }
                 catch (ArgumentOutOfRangeException) { }
             } while (visited.Count < max_iter);
-            throw new Exception($"Не могу построить субмарину");
+            throw new Exception($"Не могу разместить субмарину");
         }
 
         public void PrepareBeforeBuild(Fleet fleet, int boardSize)
